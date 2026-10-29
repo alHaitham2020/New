@@ -1,0 +1,83 @@
+﻿<Isoftui:DocumentViewControl  
+             x:Class="ISoft.RichReportDesigner.UI.View.RichReportTemplatesEditorDialogView"
+             xmlns:Isoftui="http://schemas.ISoft.com/winfx/2008/xaml/core/ui"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm" 
+             xmlns:local="clr-namespace:ISoft.RichReportDesigner.UI.Controls"
+             xmlns:vm="clr-namespace:ISoft.RichReportDesigner.UI.ViewModel" 
+             xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol" 
+             xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+             xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+             xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars"
+             xmlns:system="clr-namespace:System;assembly=mscorlib"
+             xmlns:localt="clr-namespace:ISoft.RichReportDesigner.UI.Markup.ThemeResources" 
+             xmlns:prui="http://schemas.ISoft.com/winfx/2008/xaml/prui"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             Isoftui:ViewAssist.WindowStyleType="Normal"
+             Isoftui:ViewAssist.WindowWidth="700"
+             Isoftui:ViewAssist.WindowHeight="500"
+             Isoftui:ThemeAppearanceAssist.AppearanceType="Primary"
+             Isoftui:ThemeAppearanceFontAssist.ApplyThemeFontToAll="True"
+             Isoftui:ThemeAppearanceFontAssist.FontWeight="SemiBold"
+             Isoftui:ThemeAppearanceLayoutAssist.ApplyThemeToLayoutGroup="True">
+
+    <dxlc:LayoutControl>
+
+        <dxlc:LayoutGroup Orientation="Vertical" ItemSpace="10">
+
+            <dxlc:LayoutGroup Orientation="Horizontal"  VerticalAlignment="Top">
+                
+                <Isoftui:UniformButtonsPanel Orientation="Horizontal" HorizontalAlignment="Left" Isoftui:ThemeButtonsAssist.DisplayMode="Glyph" Isoftui:ThemeButtonsAssist.GlyphSize="Medium">
+                    <dx:SimpleButton Command="{Binding PrintCommand}"  Style="{Isoftui:ButtonsThemeResource ResourceId=PrintButtonStyle}"/>
+                    <dx:SimpleButton Command="{Binding PrintDirectCommand}" Style="{Isoftui:ButtonsThemeResource ResourceId=PrintDirectButtonStyle}"/>
+                    <dx:SimpleButton Command="{Binding ShowPreviewCommand}" Style="{Isoftui:ButtonsThemeResource ResourceId=PrintPreviewButtonStyle}"/>
+                    <prui:ExportDropDownButton  ExportCommand="{Binding ExportCommand}"/>
+                </Isoftui:UniformButtonsPanel>
+                
+                <Isoftui:UniformButtonsPanel HorizontalAlignment="Right" Orientation="Horizontal" Isoftui:ThemeButtonsAssist.DisplayMode="Glyph" Isoftui:ThemeButtonsAssist.GlyphSize="Medium">
+                    <dx:SimpleButton Command="{Binding NewCommand}" Style="{Isoftui:ButtonsThemeResource ResourceId=AddNewButtonStyle}"/>
+                    <dx:SimpleButton Command="{Binding CloneCommand}" Glyph="{dx:DXImage SvgImages/Icon Builder/Actions_Copy.svg}" ToolTip="إستنساخ"/>
+                    <dx:SimpleButton Command="{Binding EditCommand}" Style="{Isoftui:ButtonsThemeResource ResourceId=ReportDesignerButtonStyle}"/>
+                    <dx:SimpleButton Command="{Binding RefreshCommand}" Style="{Isoftui:ButtonsThemeResource ResourceId=RefreshButtonStyle}"/>
+                    <dx:SimpleButton Command="{Binding CloseCommand}" Style="{Isoftui:ButtonsThemeResource ResourceId=CloseButtonStyle}"/>
+                </Isoftui:UniformButtonsPanel>
+                
+            </dxlc:LayoutGroup>
+            
+            <dxlc:GroupBox Header="أنماط الطباعة" Padding="2">
+                <Isoftui:BusyIndicatorContentControl 
+                           Loaded="{DXEvent 'Report.StoreTemplatesSource.LoadIfNotLoaded()'}"
+                           IsBusy="{DXBinding 'Report.StoreTemplatesSource.Source.IsBusy'}" 
+                           ShowBusyText="True"
+                           IndicatorVerticalAlignment="Center"
+                           VerticalContentAlignment="Stretch"
+                           VerticalAlignment="Stretch" 
+                           Margin="2"
+                           MinWidth="150"
+                           MinHeight="150">
+                    <dxe:ListBoxEdit x:Name="tempListbox"
+                                     ItemsSource="{DXBinding 'Report.StoreTemplatesSource.Source.DataSource'}"
+                                     EditValue="{Binding SelectedTemplateItemKey,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
+                                     DisplayMember="Name"
+                                     ValueMember="Id"
+                                     ItemTemplate="{localt:RichDesignerViewThemeResource ResourceId=ReportItemTemplate}"
+                                     ShowBorder="False"
+                                     ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                        <dxe:ListBoxEdit.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <WrapPanel Orientation="Horizontal"/>
+                            </ItemsPanelTemplate>
+                        </dxe:ListBoxEdit.ItemsPanel>
+                    </dxe:ListBoxEdit>
+                </Isoftui:BusyIndicatorContentControl>
+            </dxlc:GroupBox>
+            
+        </dxlc:LayoutGroup>
+        
+    </dxlc:LayoutControl>
+
+</Isoftui:DocumentViewControl>

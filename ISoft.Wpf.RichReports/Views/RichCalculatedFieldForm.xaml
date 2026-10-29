@@ -1,0 +1,43 @@
+﻿<Isoftui:ContentDialogViewControl   x:Class="ISoft.RichReportDesigner.UI.View.RichCalculatedFieldForm"
+                                    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                                    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                                    xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+                                    xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol"
+                                    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                                    xmlns:Isoftui="http://schemas.ISoft.com/winfx/2008/xaml/core/ui"
+                                    xmlns:richcore="http://schemas.ISoft.com/winfx/2008/xaml/richReportDesigner/core"
+                                    xmlns:localrich="clr-namespace:ISoft.RichReportDesigner.UI.RichEdit.ExpressionEditor"
+                                    mc:Ignorable="d"
+                                    FontWeight="SemiBold"
+                                    Width="700"
+                                    Height="500"
+                                    Isoftui:ThemeAppearanceAssist.AppearanceType="Primary"
+                                    Isoftui:ThemeAppearanceLayoutAssist.ApplyThemeToLayoutItems="True"
+                                    Isoftui:ThemeAppearanceFontAssist.ApplyThemeFontToAll="True"
+                                    Isoftui:SplashScreenAssist.ShowSplashScreenOnLoading="True">
+
+    <dxlc:LayoutControl>
+        <dxlc:LayoutGroup Orientation="Vertical" ItemSpace="10">
+            <dxlc:LayoutGroup Header="معلومات الحقل" ItemSpace="5" Orientation="Horizontal">
+                <dxlc:LayoutItem Label="الإسم">
+                    <dxe:TextEdit x:Name="txtFieldName" IsReadOnly="True" MaxLength="50"/>
+                </dxlc:LayoutItem>
+                <dxlc:LayoutItem Label="الوصف">
+                    <dxe:TextEdit x:Name="txtFieldDisplayName" MaxLength="50" />
+                </dxlc:LayoutItem>
+                <dxlc:LayoutItem Label="النوع">
+                    <dxe:ComboBoxEdit x:Name="combFieldType" 
+                                      IsTextEditable="False"
+                                      ItemsSource="{Isoftui:EnumItemsSource EnumType={x:Type richcore:RichCalculatedFieldType}}"/>
+                </dxlc:LayoutItem>
+            </dxlc:LayoutGroup>
+            <dxlc:LayoutGroup>
+                <localrich:RichEditExpressionEditorControl 
+                    x:Name="expressionEditor" 
+                    FlowDirection="LeftToRight"/>
+            </dxlc:LayoutGroup>
+        </dxlc:LayoutGroup>
+    </dxlc:LayoutControl>
+
+</Isoftui:ContentDialogViewControl>
