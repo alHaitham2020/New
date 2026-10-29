@@ -1,14 +1,7 @@
-﻿using ISoft.Mvvm.Native;
-using ISoft.RichReportDesigner.Core.Designer;
-using ISoft.RichReportDesigner.Core.Templates;
-using ISoft.RichReportDesigner.UI.DataModel;
-using ISoft.RichReportDesigner.UI.Internal;
-using System;
-using System.Threading.Tasks;
-using System.Windows;
+﻿using System.Windows;
 using System.Windows.Threading;
 
-namespace ISoft.RichReportDesigner.UI.Controls
+namespace ISoft.Wpf.RichReports.Controls
 {
     public interface IRichReportDesignerControl : IRichReportDesigner
     {

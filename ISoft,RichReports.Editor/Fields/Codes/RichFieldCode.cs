@@ -1,9 +1,7 @@
-﻿using ISoft.RichReports.Editor.Fields.Argumentes;
+﻿using ISoft.RichReports.Editor.Fields.Arguments;
 using ISoft.RichReports.Editor.Fields.Core;
 using ISoft.RichReports.Editor.Fields.Regions;
 using ISoft.RichReports.Editor.Fields.Switches;
-using ISoft.Utils.DataModel;
-using ISoft.Utils.Helpers;
 using System;
 using System.Linq;
 using System.Text;

@@ -1,5 +1,4 @@
-﻿using DevExpress.XtraRichEdit.Fields;
-using ISoft.RichReports.Editor.Internal.Fields;
+﻿using ISoft.RichReports.Editor.Internal.Fields;
 using System;
 using System.Collections.Frozen;
 using System.Collections.Generic;

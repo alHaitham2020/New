@@ -1,8 +1,7 @@
-﻿using ISoft.RichReports.Core.Templates;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Core.Abstractions.Templates;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Client
+namespace ISoft.RichReports.Core.Templates.Serialization
 {
     public static class RichReportTemplateSerializationHelper
     {

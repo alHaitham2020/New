@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Templates.FileSystem
+namespace ISoft.RichReports.Core.Abstractions.Storage.Templates
 {
     /// <summary>
     /// Represents a template folder in the file system

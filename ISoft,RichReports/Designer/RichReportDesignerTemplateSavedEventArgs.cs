@@ -1,6 +1,4 @@
-﻿using ISoft.RichReports.Core.Templates;
-
-namespace ISoft.RichReports.Designer
+﻿namespace ISoft_RichReports.Designer
 {
     public class RichReportDesignerTemplateSavedEventArgs : RichReportDesignerTemplateEventArgs
     {

@@ -1,5 +1,4 @@
-﻿using ISoft.Utils.DataAnnotations;
-using System;
+﻿using System;
 
 namespace ISoft.RichReports.Editor.Fields.Instructions
 {

@@ -1,12 +1,7 @@
-﻿using DevExpress.Xpf.RichEdit;
-using DevExpress.XtraRichEdit.API.Native;
-using ISoft.RichEdit.Native;
-using System;
-using System.Collections.Generic;
-using System.Windows;
+﻿using System.Windows;
 using System.Windows.Input;
 
-namespace ISoft.Wpf.RichReports.Editor.Internal
+namespace ISoft.Wpf.RichReports.Editor.Keyboard
 {
     internal sealed class RichEditFieldKeyboardGuard
     {

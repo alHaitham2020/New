@@ -1,6 +1,6 @@
 ﻿using ISoft.RichReports.Editor.Data;
 
-namespace ISoft.RichReports.Editor.Services
+namespace ISoft.RichReports.Editor.Services.Abstractions
 {
     public interface IRichDataFieldsManagerService
     {

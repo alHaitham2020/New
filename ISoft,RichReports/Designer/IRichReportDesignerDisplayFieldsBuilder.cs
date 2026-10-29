@@ -1,5 +1,5 @@
 ﻿using ISoft.RichReports.Designer.Fields;
-using ISoft.RichReports.UI;
+using ISoft.RichReports.Models.Reports;
 
 namespace ISoft.RichReports.Designer
 {

@@ -1,10 +1,8 @@
-﻿using ISoft.Office.Images;
-using ISoft.RichReports.Editor.Fields.Format;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Editor.Fields.Formatting;
 using System;
 using System.Runtime.CompilerServices;
 
-namespace ISoft.RichReports.Editor.RichProperties
+namespace ISoft.RichReports.Editor.Properties.RichProperties
 {
     public interface IRichPropertyWithValue : IRichProperty
     {

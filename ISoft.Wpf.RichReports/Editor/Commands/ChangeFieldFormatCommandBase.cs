@@ -1,11 +1,4 @@
-﻿using DevExpress.Utils.Commands;
-using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.Model;
-using ISoft.RichReportDesigner.Core.Fields.Data;
-using ISoft.RichReportDesigner.Core.Fields.Display;
-using ISoft.RichReportDesigner.Core.Fields.Format;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.Commands
+﻿namespace ISoft.Wpf.RichReports.Editor.Commands
 {
     public abstract class ChangeFieldFormatCommandBase : ChangeFieldSwitchValueCommand<string>
     {

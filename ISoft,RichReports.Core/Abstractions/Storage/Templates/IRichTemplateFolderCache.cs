@@ -1,6 +1,4 @@
-﻿using ISoft.Utils.Caching;
-
-namespace ISoft.RichReports.Core.Templates.FileSystem
+﻿namespace ISoft.RichReports.Core.Abstractions.Storage.Templates
 {
     public interface IRichTemplateFolderCache : IConcurrentCacheDictionary<IRichTemplateFolderKey, IRichTemplateFolder>
     {

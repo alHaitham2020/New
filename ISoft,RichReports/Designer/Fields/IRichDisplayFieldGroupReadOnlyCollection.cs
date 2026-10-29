@@ -1,5 +1,4 @@
-﻿using ISoft.RichReports.Editor.Fields.Core;
-using ISoft.RichReports.Fields;
+﻿using ISoft.RichReports.Fields;
 using System.Collections.Generic;
 
 namespace ISoft.RichReports.Designer.Fields

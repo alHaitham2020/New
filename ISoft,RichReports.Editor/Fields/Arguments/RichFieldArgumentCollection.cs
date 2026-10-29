@@ -1,11 +1,10 @@
-﻿using ISoft.Utils.Extentions;
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ISoft.RichReports.Editor.Fields.Argumentes
+namespace ISoft.RichReports.Editor.Fields.Arguments
 {
     /// <summary>
     /// Implementation of field argument collection using an index-based dictionary

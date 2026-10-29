@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ISoft.RichReports.Core.Templates
+namespace ISoft.RichReports.Core.Abstractions.Templates
 {
     public interface IRichReportTemplateDataInfo : IRichReportTemplateData
     {

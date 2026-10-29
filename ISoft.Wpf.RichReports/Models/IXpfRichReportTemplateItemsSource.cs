@@ -1,7 +1,4 @@
-﻿using ISoft.RichReports.UI.DataModel;
-using ISoft.Utils.Data.AsyncData;
-
-namespace ISoft.Wpf.RichReports.DataModel
+﻿namespace ISoft.Wpf.RichReports.Models
 {
     public interface IXpfRichReportTemplateItemsSource : IRichReportTemplateItemsSource
     {

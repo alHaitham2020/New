@@ -1,7 +1,4 @@
-﻿using ISoft.RichReportDesigner.Core.Fields.Format;
-using System;
-
-namespace ISoft.RichReportDesigner.UI.Markup.Extensions
+﻿namespace ISoft.Wpf.RichReports.Markup.Extensions
 {
     public sealed class RichFieldDateTimeFormatsSourceExtension : RichFieldFormatsSourceExtensionBase
     {

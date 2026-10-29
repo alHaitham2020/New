@@ -1,11 +1,4 @@
-﻿using DevExpress.Utils.Commands;
-using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.Model;
-using ISoft.RichReportDesigner.Core.Fields.Display;
-using ISoft.Utils.Helpers;
-using System;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.Commands
+﻿namespace ISoft.Wpf.RichReports.Editor.Commands
 {
     public abstract class ChangeFieldCodeCommandBase<T> : FieldBasedCommand
     {

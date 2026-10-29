@@ -1,4 +1,4 @@
-﻿namespace ISoft.RichReports.UI
+﻿namespace ISoft_RichReports.Models.Reports
 {
     public interface IRichReportProperties
     {

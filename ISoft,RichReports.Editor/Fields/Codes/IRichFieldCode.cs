@@ -1,4 +1,4 @@
-﻿using ISoft.RichReports.Editor.Fields.Argumentes;
+﻿using ISoft.RichReports.Editor.Fields.Arguments;
 using ISoft.RichReports.Editor.Fields.Core;
 using ISoft.RichReports.Editor.Fields.Switches;
 

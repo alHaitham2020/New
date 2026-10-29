@@ -1,6 +1,5 @@
-﻿using ISoft.RichReports.Core.Templates;
-using ISoft.RichReports.Designer.Fields;
-using ISoft.RichReports.UI;
+﻿using ISoft.RichReports.Designer.Fields;
+using ISoft.RichReports.Models.Reports;
 using System;
 
 namespace ISoft.RichReports.Designer

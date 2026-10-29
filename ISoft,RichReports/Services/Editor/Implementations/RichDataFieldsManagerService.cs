@@ -1,11 +1,8 @@
-﻿using ISoft.Office.Images;
-using ISoft.RichReports.Data.Fields;
-using ISoft.RichReports.Editor.Data;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Data.Fields;
 using System;
 using System.Collections.Concurrent;
 
-namespace ISoft.RichReports.Editor.Services.Implementation
+namespace ISoft.RichReports.Services.Editor.Implementations
 {
     /// <summary>
     /// Manage a dataSource data fields

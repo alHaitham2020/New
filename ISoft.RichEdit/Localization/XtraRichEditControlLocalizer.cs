@@ -1,6 +1,4 @@
-﻿using DevExpress.XtraRichEdit.Localization;
-
-namespace ISoft.RichEdit.Localization
+﻿namespace ISoft.RichEdit.Localization
 {
     public class XtraRichEditControlLocalizer : XtraRichEditLocalizer
     {

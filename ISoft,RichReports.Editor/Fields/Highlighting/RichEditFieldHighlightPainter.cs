@@ -1,13 +1,9 @@
-﻿using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.API.Layout;
-using DevExpress.XtraRichEdit.API.Native;
-using ISoft.RichReports.Core.Fields;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Runtime.CompilerServices;
 
-namespace ISoft.RichReports.Editor.Highlighting
+namespace ISoft.RichReports.Editor.Fields.Highlighting
 {
     //public sealed class RichEditFieldHighlightPainter : PagePainter
     //{

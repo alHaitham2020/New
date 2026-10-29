@@ -1,11 +1,9 @@
-﻿using DevExpress.Office;
-using DevExpress.XtraRichEdit.Model;
-using DevExpress.XtraRichEdit.Native;
-using System;
-using ISoft.RichReports.Editor.Data;
+﻿using System;
 using ISoft.RichReports.Editor.Internal.Fields;
+using ISoft.RichReports.Editor.Data;
+using ISoft.RichReports.Editor.Services.Abstractions;
 
-namespace ISoft.RichReports.Editor.Services.Implementation
+namespace ISoft.RichReports.Editor.Services.Implementations
 {
     //public class DynamicObjectPropertyValueProvider : IDynamicObjectPropertyValueProvider
     //{

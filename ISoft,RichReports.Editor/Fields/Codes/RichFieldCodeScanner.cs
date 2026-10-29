@@ -1,11 +1,11 @@
-﻿using ISoft.RichReports.Editor.Fields.Argumentes;
-using ISoft.RichReports.Editor.Fields.Core;
-using ISoft.RichReports.Editor.Fields.Switches;
+﻿using ISoft_RichReports.Editor.Fields.Arguments;
+using ISoft_RichReports.Editor.Fields.Core;
+using ISoft_RichReports.Editor.Fields.Switches;
 using System;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace ISoft.RichReports.Editor.Fields.Codes
+namespace ISoft_RichReports.Editor.Fields.Codes
 {
     /// <summary>
     /// Parses field codes from document text into structured RichFieldCode objects.

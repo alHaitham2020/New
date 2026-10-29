@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ISoft.RichReports.UI.DataModel
+namespace ISoft_RichReports.Models
 {
     public interface IRichReportTemplatePreviewItem
     {

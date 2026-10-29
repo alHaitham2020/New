@@ -1,7 +1,7 @@
-﻿using DevExpress.XtraRichEdit.API.Native;
+﻿using ISoft.RichReports.Editor.Services.Abstractions;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Editor.Services.Implementation
+namespace ISoft.RichReports.Editor.Services.Implementations
 {
     public class RichEditDocumentRenderingService : IRichEditDocumentRenderingService
     {

@@ -1,4 +1,4 @@
-﻿namespace ISoft.RichReports.Editor.Fields.Format
+﻿namespace ISoft_RichReports.Editor.Fields.Formatting
 {
     public enum RichFieldFormatType
     {

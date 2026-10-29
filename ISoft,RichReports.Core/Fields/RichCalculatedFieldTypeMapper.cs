@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ISoft.RichReports.Core.Enums;
+using System;
 using System.Collections.Generic;
 
 namespace ISoft.RichReports.Core.Fields

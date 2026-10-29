@@ -1,9 +1,9 @@
-﻿using ISoft.RichReports.Core.Templates;
+﻿using ISoft.RichReports.Core.Enums;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Client
+namespace ISoft.RichReports.Core.Abstractions.Templates
 {
     public interface IRichReportTemplateInfoProvider
     {

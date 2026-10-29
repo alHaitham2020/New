@@ -1,6 +1,4 @@
-﻿using DevExpress.XtraRichEdit.Commands;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.Commands
+﻿namespace ISoft.Wpf.RichReports.Editor.Commands
 {
     public class XpfRichEditCommandId
     {

@@ -1,5 +1,4 @@
-﻿using ISoft.Utils.Localization;
-using System.Resources;
+﻿using System.Resources;
 
 namespace ISoft.RichReports.Localization
 {

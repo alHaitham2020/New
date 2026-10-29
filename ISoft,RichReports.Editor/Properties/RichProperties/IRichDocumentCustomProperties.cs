@@ -1,4 +1,4 @@
-﻿namespace ISoft.RichReports.Editor.RichProperties
+﻿namespace ISoft.RichReports.Editor.Properties.RichProperties
 {
     public interface IRichDocumentCustomProperties : IRichValueProperties<IRichDocumentCustomProperty>
     {

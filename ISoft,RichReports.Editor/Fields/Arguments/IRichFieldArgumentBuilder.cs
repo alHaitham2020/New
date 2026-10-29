@@ -1,4 +1,4 @@
-﻿namespace ISoft.RichReports.Editor.Fields.Argumentes
+﻿namespace ISoft.RichReports.Editor.Fields.Arguments
 {
     public interface IRichFieldArgumentBuilder
     {

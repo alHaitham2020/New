@@ -1,13 +1,8 @@
-﻿using DevExpress.Office.History;
-using DevExpress.Utils;
-using DevExpress.XtraRichEdit.Model;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ISoft.RichEdit.Model
+namespace ISoft.RichEdit.Documents
 {
     /// <summary>
     /// Encapsulates the low-level field mutations performed against a

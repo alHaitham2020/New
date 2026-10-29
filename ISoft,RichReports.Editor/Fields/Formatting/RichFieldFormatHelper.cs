@@ -1,7 +1,7 @@
 ﻿using ISoft.RichReports.Editor.Fields.Switches;
 using System;
 
-namespace ISoft.RichReports.Editor.Fields.Format
+namespace ISoft.RichReports.Editor.Fields.Formatting
 {
     /// <summary>
     /// Format definitions for common data types (please move it to the new above startegy)

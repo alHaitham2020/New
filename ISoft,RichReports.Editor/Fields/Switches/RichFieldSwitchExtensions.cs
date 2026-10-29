@@ -1,4 +1,4 @@
-﻿using ISoft.RichReports.Editor.Fields.Format;
+﻿using ISoft.RichReports.Editor.Fields.Formatting;
 
 namespace ISoft.RichReports.Editor.Fields.Switches
 {

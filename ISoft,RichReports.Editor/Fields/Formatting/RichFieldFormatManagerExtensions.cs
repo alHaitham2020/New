@@ -1,6 +1,4 @@
-﻿using DevExpress.Mvvm.Native;
-
-namespace ISoft.RichReports.Editor.Fields.Format
+﻿namespace ISoft.RichReports.Editor.Fields.Formatting
 {
     public static class RichFieldFormatManagerExtensions
     {

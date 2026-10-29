@@ -1,8 +1,6 @@
-﻿using DevExpress.XtraRichEdit.API.Native;
-using ISoft.RichReports.Core.Templates;
-using ISoft.RichReports.Editor.RichProperties;
+﻿using ISoft.RichReports.Editor.Properties.RichProperties;
 
-namespace ISoft.RichReports.Editor.Services
+namespace ISoft.RichReports.Editor.Services.Abstractions
 {
     public interface IRichEditDocumentPropertiesManagerService
     {

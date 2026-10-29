@@ -1,6 +1,4 @@
-﻿using ISoft.Printing.Shared.Data;
-
-namespace ISoft.Wpf.RichReports.DataModel
+﻿namespace ISoft.Wpf.RichReports.Models
 {
     /// <summary>
     /// Factory for creating report instances

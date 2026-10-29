@@ -1,10 +1,10 @@
-﻿using ISoft.RichReports.Core.Templates;
-using ISoft.Utils.Data.AsyncData;
+﻿using ISoft.RichReports.Core.Abstractions.Templates;
+using ISoft.RichReports.Core.Models.Templates;
 using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Client
+namespace ISoft.RichReports.Core.Abstractions.Storage
 {
     public interface IRichReportTemplateStorage
     {

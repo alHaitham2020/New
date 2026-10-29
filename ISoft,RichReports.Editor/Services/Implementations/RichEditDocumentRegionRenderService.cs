@@ -1,12 +1,10 @@
-﻿using DevExpress.XtraRichEdit.API.Native;
-using ISoft.RichEdit.Native;
-using ISoft.RichReports.Editor.Fields.Regions;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Editor.Fields.Regions;
+using ISoft.RichReports.Editor.Services.Abstractions;
 using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Editor.Services.Implementation
+namespace ISoft.RichReports.Editor.Services.Implementations
 {
     /// <summary>
     /// Service responsible for analyzing tables and injecting 

@@ -1,14 +1,4 @@
-﻿using DevExpress.Utils.Commands;
-using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.Commands;
-using DevExpress.XtraRichEdit.Localization;
-using DevExpress.XtraRichEdit.Model;
-using ISoft.RichReportDesigner.Core.RichEdit;
-using ISoft.RichReportDesigner.UI.RichEdit.Helpers;
-using System;
-using System.Collections.Generic;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.Commands
+﻿namespace ISoft.Wpf.RichReports.Editor.Commands
 {
     public class RemoveSelectedFieldsCommand : SelectionBasedPropertyChangeCommandBase
     {

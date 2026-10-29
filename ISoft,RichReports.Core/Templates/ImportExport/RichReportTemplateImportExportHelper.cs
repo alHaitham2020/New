@@ -1,8 +1,8 @@
-﻿using ISoft.RichReports.Core.Templates;
-using ISoft.Windows.Storage.Dialog;
+﻿using ISoft.RichReports.Core.Abstractions.Templates;
+using ISoft.RichReports.Core.Templates.Serialization;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Client
+namespace ISoft.RichReports.Core.Templates.ImportExport
 {
     public static class RichReportTemplateImportExportHelper
     {

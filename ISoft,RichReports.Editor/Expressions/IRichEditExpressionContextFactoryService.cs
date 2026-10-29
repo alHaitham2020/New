@@ -1,6 +1,4 @@
-﻿using DevExpress.Data.Controls.ExpressionEditor;
-
-namespace ISoft.RichReports.Editor.Expression
+﻿namespace ISoft.RichReports.Editor.Expressions
 {
     public interface IRichEditExpressionContextFactoryService
     {

@@ -1,8 +1,6 @@
-﻿using DevExpress.XtraRichEdit.API.Native;
-using ISoft.Utils.Data.Collection;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
-namespace ISoft.RichEdit.Native
+namespace ISoft.RichEdit.Documents.Native
 {
     public interface IRichDocField
     {

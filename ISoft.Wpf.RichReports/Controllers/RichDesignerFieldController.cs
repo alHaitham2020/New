@@ -1,15 +1,7 @@
-﻿using DevExpress.XtraRichEdit.API.Native;
-using ISoft.Mvvm.Helpers;
-using ISoft.RichReportDesigner.Core.Constants;
-using ISoft.RichReportDesigner.Core.Fields.Display;
-using ISoft.RichReportDesigner.Core.RichEdit;
-using ISoft.RichReportDesigner.Core.RichEdit.Services;
-using ISoft.RichReportDesigner.UI.Controls;
-using ISoft.Utils.Helpers;
-using System;
+﻿using ISoft.Wpf.RichReports.Controls;
 using System.Drawing;
 
-namespace ISoft.RichReportDesigner.UI.Controllers
+namespace ISoft.Wpf.RichReports.Controllers
 {
     internal sealed class RichDesignerFieldController
     {

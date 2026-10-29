@@ -1,6 +1,5 @@
-﻿using DevExpress.XtraRichEdit.Fields;
-using DevExpress.XtraRichEdit.Model;
-using ISoft.RichReports.Editor.Services;
+﻿using ISoft.RichReports.Editor.Internal.Fields;
+using ISoft.RichReports.Editor.Services.Abstractions;
 
 namespace ISoft.RichReports.Editor.Internal.Fields
 {

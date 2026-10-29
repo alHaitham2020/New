@@ -1,10 +1,8 @@
-﻿using ISoft.Utils.Data.Collection;
-using ISoft.Utils.Helpers;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ISoft.RichReports.Editor.RichProperties
+namespace ISoft.RichReports.Editor.Properties.RichProperties
 {
     public abstract class RichValuePropertiesBase<TProperty> : UniqueDataCollectionBase<string, TProperty>, IRichValueProperties<TProperty> where TProperty : class, IRichPropertyWithValue
     {

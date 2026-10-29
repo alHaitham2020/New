@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ISoft.RichReports.Data.Fields
+namespace ISoft_RichReports.Data.Fields
 {
     public interface IRichDataFieldReadOnlyCollection : IReadOnlyCollection<IRichDataField>
     {

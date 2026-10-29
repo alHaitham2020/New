@@ -1,12 +1,6 @@
-﻿using ISoft.Printing.Core.Xpf.BandDesigner;
-using ISoft.Utils.Caching;
-using ISoft.Utils.Data.AsyncData;
-using ISoft.Utils.Helpers;
-using System;
-using System.Threading;
-using System.Windows.Media.Imaging;
+﻿using System.Windows.Media.Imaging;
 
-namespace ISoft.Wpf.RichReports.Helpers
+namespace ISoft.Wpf.RichReports.Services.Preview
 {
     internal sealed class ReportTemplatesPreviewCache : IDisposable
     {

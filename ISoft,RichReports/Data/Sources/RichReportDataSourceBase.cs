@@ -2,7 +2,7 @@
 using System;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Data.DataSources
+namespace ISoft.RichReports.Data.Sources
 {
     public abstract class RichReportDataSourceBase : IRichReportDataSource
     {

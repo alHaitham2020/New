@@ -1,10 +1,6 @@
-﻿using DevExpress.Utils.Commands;
-using DevExpress.Xpf.RichEdit;
-using DevExpress.XtraRichEdit.Commands;
-using DevExpress.XtraRichEdit.Internal;
-using System.Windows.Input;
+﻿using System.Windows.Input;
 
-namespace ISoft.RichReportDesigner.UI.RichEdit.Commands
+namespace ISoft.Wpf.RichReports.Editor.Commands
 {
     public class XpfRichEditControlBarCommandManager : RichEditControlBarCommandManager
     {

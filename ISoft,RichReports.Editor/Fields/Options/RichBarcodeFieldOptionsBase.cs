@@ -1,6 +1,4 @@
-﻿using ISoft.Office.Barcode;
-using ISoft.RichReports.Editor.Fields.Instructions;
-using ISoft.Utils.DataAnnotations;
+﻿using ISoft.RichReports.Editor.Fields.Instructions;
 
 namespace ISoft.RichReports.Editor.Fields.Options
 {

@@ -1,6 +1,4 @@
-﻿using DevExpress.XtraPrinting;
-using ISoft.RichReports.Core.Templates;
-using System;
+﻿using System;
 using System.Threading.Tasks;
 
 namespace ISoft.RichReports.Printing

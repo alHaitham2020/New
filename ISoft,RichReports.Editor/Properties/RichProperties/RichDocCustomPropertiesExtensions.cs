@@ -1,10 +1,8 @@
-﻿using ISoft.Office.Barcode;
-using ISoft.Office.Images;
-using ISoft.RichReports.Editor.Fields.Format;
-using ISoft.Utils.Constants;
+﻿using ISoft.RichReports.Editor.Fields.Formatting;
+using ISoft.RichReports.Editor.Properties.RichProperties;
 using System;
 
-namespace ISoft.RichReports.Editor.RichProperties
+namespace ISoft.RichReports.Editor.Properties.RichProperties
 {
     public static class RichDocCustomPropertiesExtensions
     {

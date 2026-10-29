@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.Design;
 
-namespace ISoft.RichReports.Core.Model
+namespace ISoft.RichReports.Core.Abstractions.Services
 {
     public interface IRichServiceContainer
     {

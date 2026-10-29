@@ -1,10 +1,4 @@
-﻿using DevExpress.Utils.Commands;
-using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.Commands;
-using DevExpress.XtraRichEdit.Localization;
-using DevExpress.XtraRichEdit.Model;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.Commands
+﻿namespace ISoft.Wpf.RichReports.Editor.Commands
 {
     public class ToolsFieldsCommandGroup : FieldBasedRichEditMenuItemSimpleCommand
     {

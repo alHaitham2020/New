@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ISoft.RichReports.Editor.Fields.Format
+namespace ISoft.RichReports.Editor.Fields.Formatting
 {
     // Non-generic interface for manager
     public interface IRichFieldFormatProvider

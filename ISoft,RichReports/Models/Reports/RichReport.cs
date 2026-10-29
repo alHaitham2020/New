@@ -1,8 +1,6 @@
-﻿using ISoft.RichReports.Editor.Services;
-using ISoft.RichReports.Editor.Services.Implementation;
-using ISoft.Utils.Data;
+﻿using ISoft.RichReports.Context;
 
-namespace ISoft.RichReports.UI
+namespace ISoft.RichReports.Models.Reports
 {
     /// <summary>
     /// a rich report for all platform

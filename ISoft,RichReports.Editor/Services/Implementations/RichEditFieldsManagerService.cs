@@ -1,12 +1,12 @@
 ﻿using ISoft.RichReports.Editor.Fields.Core;
 using ISoft.RichReports.Editor.Internal.Fields;
-using ISoft.Utils.Helpers;
+using ISoft.RichReports.Editor.Services.Abstractions;
 using System;
 using System.Collections.Frozen;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ISoft.RichReports.Editor.Services.Implementation
+namespace ISoft.RichReports.Editor.Services.Implementations
 {
     /// <summary>
     /// Provides comprehensive information about all rich edit fields with localization support

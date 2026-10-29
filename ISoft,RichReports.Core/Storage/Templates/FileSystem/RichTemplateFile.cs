@@ -1,10 +1,12 @@
-﻿using ISoft.RichReports.Core.Client;
+﻿using ISoft.RichReports.Core.Abstractions.Storage.Templates;
+using ISoft.RichReports.Core.Abstractions.Templates;
+using ISoft.RichReports.Core.Templates.Serialization;
 using System;
 using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Templates.FileSystem
+namespace ISoft.RichReports.Core.Storage.Templates.FileSystem
 {
     /// <summary>
     /// Extended template file with pre-loading support

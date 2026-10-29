@@ -1,7 +1,7 @@
-﻿using ISoft.RichReports.Editor.Fields.Format;
+﻿using ISoft.RichReports.Editor.Fields.Formatting;
 using System;
 
-namespace ISoft.RichReports.Editor.RichProperties
+namespace ISoft.RichReports.Editor.Properties.RichProperties
 {
     public interface IRichProperty : ICloneable
     {

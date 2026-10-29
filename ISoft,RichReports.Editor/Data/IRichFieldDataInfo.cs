@@ -1,5 +1,4 @@
-﻿using ISoft.Office.Images;
-using System;
+﻿using System;
 
 namespace ISoft.RichReports.Editor.Data
 {

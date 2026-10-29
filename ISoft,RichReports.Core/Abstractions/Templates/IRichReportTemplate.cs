@@ -1,6 +1,7 @@
-﻿using System;
+﻿using ISoft.RichReports.Core.Models.Templates;
+using System;
 
-namespace ISoft.RichReports.Core.Templates
+namespace ISoft.RichReports.Core.Abstractions.Templates
 {
     public interface IRichReportTemplate : IRichReportTemplateData
     {

@@ -1,14 +1,11 @@
-﻿using DevExpress.XtraRichEdit.API.Native;
-using ISoft.Office.Images;
-using ISoft.RichEdit.Native;
-using ISoft.RichReports.Editor.Fields.Codes;
+﻿using ISoft.RichReports.Editor.Fields.Codes;
 using ISoft.RichReports.Editor.Fields.Core;
-using ISoft.RichReports.Editor.Fields.Format;
+using ISoft.RichReports.Editor.Fields.Formatting;
 using ISoft.RichReports.Editor.Fields.Options;
 using ISoft.RichReports.Editor.Fields.Search;
 using System;
 using System.Collections.Generic;
-namespace ISoft.RichReports.Editor.Services
+namespace ISoft.RichReports.Editor.Services.Abstractions
 {
     public interface IRichEditDocumentFieldManagerService
     {

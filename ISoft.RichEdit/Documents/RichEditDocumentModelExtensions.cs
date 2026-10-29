@@ -1,9 +1,7 @@
-﻿using DevExpress.XtraRichEdit.Fields;
-using DevExpress.XtraRichEdit.Model;
-using DevExpress.XtraRichEdit.Utils;
+﻿using ISoft.RichEdit.Documents;
 using System;
 
-namespace ISoft.RichEdit.Model
+namespace ISoft.RichEdit.Documents
 {
     public static class RichEditDocumentModelExtensions
     {

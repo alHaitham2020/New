@@ -1,19 +1,6 @@
-﻿using ISoft.Mvvm.Helpers;
-using ISoft.Printing.Core.Helpers;
-using ISoft.RichReportDesigner.Core.Reports.DataModel;
-using ISoft.RichReportDesigner.Core.RichEdit.Services;
-using ISoft.RichReportDesigner.Core.Templates;
-using ISoft.RichReportDesigner.UI.Controls;
-using ISoft.RichReportDesigner.UI.DataModel;
-using ISoft.RichReportDesigner.UI.Internal;
-using ISoft.Utils.Enumrations;
-using ISoft.Utils.Extentions;
-using ISoft.Utils.Helpers;
-using ISoft.Utils.Localization;
-using System;
-using System.Threading.Tasks;
+﻿using ISoft.Wpf.RichReports.Controls;
 
-namespace ISoft.RichReportDesigner.UI.Controllers
+namespace ISoft.Wpf.RichReports.Controllers
 {
     internal sealed class RichDesignerCommandsHandler
     {

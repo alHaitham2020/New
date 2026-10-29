@@ -1,18 +1,4 @@
-﻿using DevExpress.Data.Controls.ExpressionEditor;
-using DevExpress.Data.Filtering;
-using DevExpress.Data.Filtering.Helpers;
-using DevExpress.DataAccess.Native.ExpressionEditor;
-using DevExpress.Xpf.Editors.ExpressionEditor.Native;
-using DevExpress.Xpf.ExpressionEditor;
-using DevExpress.Xpf.ExpressionEditor.Native;
-using ISoft.Core.UI.Extensions;
-using ISoft.RichReportDesigner.Core.RichEdit.Expression;
-using ISoft.Utils.Helpers;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.ExpressionEditor
+﻿namespace ISoft.Wpf.RichReports.Editor.Expressions
 {
     public class RichEditExpressionEditorControl : ExpressionEditorControl
     {

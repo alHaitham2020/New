@@ -1,7 +1,4 @@
-﻿using DevExpress.XtraPrinting;
-using DevExpress.XtraRichEdit;
-
-namespace ISoft.RichReports.Editor.Services
+﻿namespace ISoft.RichReports.Editor.Services.Abstractions
 {
     public interface IRichEditDocumentPrintingService
     {

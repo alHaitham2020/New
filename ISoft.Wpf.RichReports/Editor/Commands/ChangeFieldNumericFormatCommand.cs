@@ -1,10 +1,4 @@
-﻿using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.Commands;
-using DevExpress.XtraRichEdit.Model;
-using ISoft.RichReportDesigner.Core.Fields.Data;
-using ISoft.RichReportDesigner.Core.Fields.Switches;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.Commands
+﻿namespace ISoft.Wpf.RichReports.Editor.Commands
 {
     public class ChangeFieldNumericFormatCommand : ChangeFieldFormatCommandBase
     {

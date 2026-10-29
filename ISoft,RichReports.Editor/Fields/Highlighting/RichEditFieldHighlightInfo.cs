@@ -1,6 +1,4 @@
-﻿using DevExpress.XtraRichEdit.API.Native;
-
-namespace ISoft.RichReports.Editor.Highlighting
+﻿namespace ISoft.RichReports.Editor.Fields.Highlighting
 {
     public sealed class RichEditFieldHighlightInfo
     {

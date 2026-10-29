@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ISoft.RichReports.Editor.Fields.Switches
+namespace ISoft_RichReports.Editor.Fields.Switches
 {
     public interface IRichFieldSwitchScanner
     {

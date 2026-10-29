@@ -1,15 +1,4 @@
-﻿using DevExpress.Mvvm.POCO;
-using ISoft.Mvvm.Extentions;
-using ISoft.Mvvm.ViewModel.Common;
-using ISoft.RichReportDesigner.Core.Reports;
-using ISoft.RichReportDesigner.Core.Reports.DataModel;
-using ISoft.RichReportDesigner.Core.RichEdit;
-using ISoft.Utils.Helpers;
-using System;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace ISoft.RichReportDesigner.UI.ViewModel
+﻿namespace ISoft.Wpf.RichReports.ViewModels
 {
     public class RichCalculatedFieldsEditorViewModel : DocumentViewModelBase, IRichReportCalculatedFieldModelOwner
     {

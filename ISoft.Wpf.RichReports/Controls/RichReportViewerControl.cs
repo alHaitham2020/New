@@ -1,8 +1,7 @@
-﻿using DevExpress.Mvvm.UI.Native;
-using System.Windows;
+﻿using System.Windows;
 using System.Windows.Controls;
 
-namespace ISoft.RichReportDesigner.UI.Controls
+namespace ISoft.Wpf.RichReports.Controls
 {
     public class RichReportViewerControl : Control
     {

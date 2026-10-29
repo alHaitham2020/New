@@ -1,5 +1,5 @@
-﻿using ISoft.Utils.DataModel;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Core.Abstractions.Templates;
+using ISoft.RichReports.Core.Models.Templates;
 using System;
 
 namespace ISoft.RichReports.Core.Templates

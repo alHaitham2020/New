@@ -1,11 +1,8 @@
-﻿using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.API.Native;
-using ISoft.RichReports.Editor.MailMerge;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Editor.Services.Abstractions;
 using System;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Editor.Services.Implementation
+namespace ISoft.RichReports.Editor.Services.Implementations
 {
     /// <summary>
     /// Service responsible for executing mail merge operations

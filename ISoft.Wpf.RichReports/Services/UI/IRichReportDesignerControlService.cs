@@ -1,4 +1,4 @@
-﻿namespace ISoft.RichReportDesigner.UI.UIServices
+﻿namespace ISoft.Wpf.RichReports.Services.UI
 {
     public interface IRichReportDesignerControlService
     {

@@ -1,13 +1,4 @@
-﻿using DevExpress.Mvvm.DataAnnotations;
-using DevExpress.XtraPrinting;
-using ISoft.Mvvm.ViewModel.Common;
-using ISoft.RichReportDesigner.UI.DataModel;
-using ISoft.Utils.Extentions;
-using ISoft.Utils.Helpers;
-using System;
-using System.Threading.Tasks;
-
-namespace ISoft.RichReportDesigner.UI.ViewModel
+﻿namespace ISoft.Wpf.RichReports.ViewModels
 {
     /// <summary>
     /// ViewModel for template selection dialog

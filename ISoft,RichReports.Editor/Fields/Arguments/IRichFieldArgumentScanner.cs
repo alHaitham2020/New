@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ISoft.RichReports.Editor.Fields.Argumentes
+namespace ISoft_RichReports.Editor.Fields.Arguments
 {
     public interface IRichFieldArgumentScanner
     {

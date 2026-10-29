@@ -1,4 +1,4 @@
-﻿namespace ISoft.RichReports.Editor.Fields.Regions
+﻿namespace ISoft_RichReports.Editor.Fields.Regions
 {
     public class RegionValidationWarning
     {

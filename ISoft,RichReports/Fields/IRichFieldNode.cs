@@ -1,7 +1,4 @@
-﻿using ISoft.Office.Images;
-using ISoft.RichReports.Data.Fields;
-using ISoft.RichReports.Editor.Fields.Format;
-using ISoft.Utils.Enumrations;
+﻿using ISoft.RichReports.Data.Fields;
 
 namespace ISoft.RichReports.Fields
 {

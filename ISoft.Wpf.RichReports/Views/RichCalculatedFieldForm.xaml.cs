@@ -1,18 +1,6 @@
-﻿using DevExpress.Data.Controls.ExpressionEditor;
-using DevExpress.Mvvm;
-using DevExpress.Mvvm.Native;
-using DevExpress.Xpf.Core.Native;
-using ISoft.Core.UI.Controls;
-using ISoft.Core.UI.Helpers;
-using ISoft.Mvvm.Helpers;
-using ISoft.RichReportDesigner.Core.Constants;
-using ISoft.RichReportDesigner.Core.Reports.DataModel;
-using ISoft.Utils.Helpers;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Threading.Tasks;
+﻿using System.ComponentModel;
 
-namespace ISoft.RichReportDesigner.UI.View
+namespace ISoft.Wpf.RichReports.Views
 {
     /// <summary>
     /// Interaction logic for RichCalculatedFieldView.xaml

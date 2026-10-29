@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ISoft.RichReports.Editor.RichProperties
+namespace ISoft.RichReports.Editor.Properties.RichProperties
 {
     public interface IRichProperties<TProperty> where TProperty : class, IRichProperty
     {

@@ -1,10 +1,5 @@
-﻿using ISoft.Office.Images;
-using ISoft.RichReports.Data.Fields;
-using ISoft.RichReports.Editor.Fields.Core;
-using ISoft.RichReports.Editor.Fields.Format;
-using ISoft.RichReports.Editor.RichProperties;
+﻿using ISoft.RichReports.Data.Fields;
 using ISoft.RichReports.Fields;
-using ISoft.Utils.Drawing;
 using System;
 using System.Drawing;
 

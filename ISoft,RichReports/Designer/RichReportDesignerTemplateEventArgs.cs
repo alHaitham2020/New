@@ -1,5 +1,4 @@
-﻿using ISoft.RichReports.Core.Templates;
-using System;
+﻿using System;
 
 namespace ISoft.RichReports.Designer
 {

@@ -1,6 +1,4 @@
-﻿using DevExpress.XtraRichEdit;
-
-namespace ISoft.RichReports.Editor.Preview
+﻿namespace ISoft.RichReports.Editor.Preview
 {
     public interface IRichDocumentServer : IRichEditDocumentServer
     {

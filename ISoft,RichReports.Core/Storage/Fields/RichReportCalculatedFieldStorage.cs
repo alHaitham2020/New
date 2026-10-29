@@ -1,11 +1,11 @@
-﻿using ISoft.Printing.Shared.Data;
-using ISoft.RichReports.Core.Data;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Core.Abstractions.Data;
+using ISoft.RichReports.Core.Abstractions.Fields;
+using ISoft.RichReports.Core.Abstractions.Storage;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Client
+namespace ISoft.RichReports.Core.Storage.Fields
 {
     public class RichReportCalculatedFieldStorage : IRichReportCalculatedFieldStorage
     {

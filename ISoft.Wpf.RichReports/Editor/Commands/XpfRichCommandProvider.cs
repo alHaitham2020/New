@@ -1,11 +1,8 @@
-﻿using DevExpress.Mvvm;
-using ISoft.RichReportDesigner.UI.Controls;
-using ISoft.Utils.Helpers;
-using System;
+﻿using ISoft.Wpf.RichReports.Controls;
 using System.Windows.Input;
 using System.Windows.Threading;
 
-namespace ISoft.RichReportDesigner.UI.RichEdit.Commands
+namespace ISoft.Wpf.RichReports.Editor.Commands
 {
     public class XpfRichCommandProvider : ViewModelBase, IDisposable
     {

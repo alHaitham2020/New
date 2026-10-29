@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ISoft.RichEdit.Native
+namespace ISoft.RichEdit.Documents.Native
 {
     /// <summary>
     /// Specifies which document parts to include when collecting sub documents.

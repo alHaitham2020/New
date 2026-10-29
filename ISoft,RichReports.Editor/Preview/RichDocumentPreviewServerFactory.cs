@@ -1,6 +1,4 @@
-﻿using ISoft.RichReports.Core.Model;
-
-namespace ISoft.RichReports.Editor.Preview
+﻿namespace ISoft.RichReports.Editor.Preview
 {
     public class RichDocumentPreviewServerFactory : IRichTemplatePreviewServerFactory
     {

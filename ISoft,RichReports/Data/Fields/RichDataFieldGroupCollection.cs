@@ -1,6 +1,4 @@
-﻿using ISoft.Utils.Data.Collection;
-using ISoft.Utils.Helpers;
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace ISoft.RichReports.Data.Fields

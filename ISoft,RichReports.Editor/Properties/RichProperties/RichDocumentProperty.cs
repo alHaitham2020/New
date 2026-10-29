@@ -1,7 +1,7 @@
-﻿using ISoft.RichReports.Editor.Fields.Format;
+﻿using ISoft_RichReports.Editor.Fields.Formatting;
 using System;
 
-namespace ISoft.RichReports.Editor.RichProperties
+namespace ISoft_RichReports.Editor.Properties.RichProperties
 {
     public interface IRichDocumentProperty : IRichProperty
     {

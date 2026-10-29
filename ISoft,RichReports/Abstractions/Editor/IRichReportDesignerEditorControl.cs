@@ -1,8 +1,6 @@
-﻿using DevExpress.XtraRichEdit.API.Native;
-using ISoft.RichEdit.UI;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Editor.UI
+namespace ISoft.RichReports.Abstractions.Editor
 {
     public interface IRichReportDesignerEditorControl : IRichEditorControl
     {

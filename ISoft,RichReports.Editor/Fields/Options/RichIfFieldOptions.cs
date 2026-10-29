@@ -1,5 +1,4 @@
 ﻿using ISoft.RichReports.Editor.Fields.Core;
-using ISoft.RichReports.Editor.Fields.Instructions;
 
 namespace ISoft.RichReports.Editor.Fields.Options
 {

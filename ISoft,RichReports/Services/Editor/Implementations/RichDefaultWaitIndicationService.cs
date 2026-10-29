@@ -1,8 +1,7 @@
-﻿using ISoft.Utils.Data.AsyncData;
-using System;
+﻿using System;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Editor.Services.Implementation
+namespace ISoft.RichReports.Services.Editor.Implementations
 {
     public class RichDefaultWaitIndicationService : IRichWaitIndicationService
     {

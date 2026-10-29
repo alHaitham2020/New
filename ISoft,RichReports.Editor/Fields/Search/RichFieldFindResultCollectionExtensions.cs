@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace ISoft.RichReports.Editor.Fields.Search
+namespace ISoft_RichReports.Editor.Fields.Search
 {
     public static class RichFieldFindResultCollectionExtensions
     {

@@ -1,6 +1,4 @@
-﻿using DevExpress.XtraRichEdit.Model;
-
-namespace ISoft.RichReports.Editor.Data
+﻿namespace ISoft_RichReports.Editor.Data
 {
     public class RichEditDataController : RichDataController
     {

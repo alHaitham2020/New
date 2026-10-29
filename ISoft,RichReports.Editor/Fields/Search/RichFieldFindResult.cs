@@ -1,7 +1,6 @@
-﻿using DevExpress.XtraRichEdit.API.Native;
-using ISoft.RichReports.Editor.Fields.Codes;
+﻿using ISoft_RichReports.Editor.Fields.Codes;
 
-namespace ISoft.RichReports.Editor.Fields.Search
+namespace ISoft_RichReports.Editor.Fields.Search
 {
     public class RichFieldFindResult : IRichFieldFindResult
     {

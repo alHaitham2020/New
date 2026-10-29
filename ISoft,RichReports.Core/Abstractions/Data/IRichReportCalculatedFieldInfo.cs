@@ -1,7 +1,7 @@
-﻿using ISoft.RichReports.Core.Fields;
+﻿using ISoft.RichReports.Core.Enums;
 using System;
 
-namespace ISoft.RichReports.Core.Data
+namespace ISoft.RichReports.Core.Abstractions.Data
 {
     public interface IRichReportCalculatedFieldInfo
     {

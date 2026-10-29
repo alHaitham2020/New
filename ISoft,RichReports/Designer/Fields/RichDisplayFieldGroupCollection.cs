@@ -1,7 +1,4 @@
-﻿using ISoft.RichReports.Editor.Fields.Core;
-using ISoft.RichReports.Fields;
-using ISoft.Utils.Data.Collection;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Fields;
 using System;
 using System.Collections.Frozen;
 using System.Collections.Generic;

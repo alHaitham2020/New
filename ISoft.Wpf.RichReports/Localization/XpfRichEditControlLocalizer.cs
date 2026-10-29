@@ -1,7 +1,4 @@
-﻿using DevExpress.Xpf.RichEdit;
-using DevExpress.Xpf.RichEdit.Localization;
-
-namespace ISoft.Wpf.RichReports.Editor.Localization
+﻿namespace ISoft.Wpf.RichReports.Localization
 {
     public class XpfRichEditControlLocalizer : XpfRichEditLocalizer
     {

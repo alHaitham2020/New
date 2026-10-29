@@ -1,12 +1,10 @@
-﻿using DevExpress.Mvvm.Native;
-using ISoft.Utils.Caching;
-using ISoft.Utils.Extentions;
+﻿using ISoft.RichReports.Core.Abstractions.Storage.Templates;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Templates.FileSystem
+namespace ISoft.RichReports.Core.Storage.Templates.FileSystem
 {
     /// <summary>
     /// Thread-safe template registry with async support

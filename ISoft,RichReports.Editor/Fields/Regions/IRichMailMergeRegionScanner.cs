@@ -1,5 +1,4 @@
-﻿using DevExpress.XtraRichEdit.API.Native;
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace ISoft.RichReports.Editor.Fields.Regions

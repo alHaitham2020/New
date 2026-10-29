@@ -1,17 +1,7 @@
-﻿using DevExpress.Data;
-using DevExpress.Data.Controls.ExpressionEditor;
-using DevExpress.Xpf.Core;
-using DevExpress.Xpf.Core.Native;
-using DevExpress.Xpf.Editors;
-using DevExpress.Xpf.Editors.ExpressionEditor;
-using DevExpress.Xpf.Editors.ExpressionEditor.Native;
-using ISoft.Core.UI.Common;
-using ISoft.Utils.Helpers;
-using System;
-using System.Windows;
+﻿using System.Windows;
 using System.Windows.Media.Imaging;
 
-namespace ISoft.RichReportDesigner.UI.RichEdit.ExpressionEditor
+namespace ISoft.Wpf.RichReports.Editor.Expressions
 {
     public static class XpfRichExpressionEditorHelper
     {

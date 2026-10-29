@@ -1,6 +1,5 @@
 ﻿using ISoft.RichReports.Data.Fields;
 using ISoft.RichReports.Fields;
-using ISoft.Utils.Helpers;
 using System;
 
 namespace ISoft.RichReports.Designer.Fields

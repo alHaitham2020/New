@@ -1,4 +1,4 @@
-﻿namespace ISoft.RichReports.Editor.Expression
+﻿namespace ISoft.RichReports.Editor.Expressions
 {
     public enum RichExpressionEditorColumnType
     {

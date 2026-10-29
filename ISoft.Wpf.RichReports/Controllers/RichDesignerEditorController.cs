@@ -1,13 +1,7 @@
-﻿using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.API.Layout;
-using ISoft.RichReportDesigner.Core.RichEdit.Services;
-using ISoft.RichReportDesigner.UI.Controls;
-using ISoft.Utils.Extentions;
-using ISoft.Utils.Helpers;
-using System;
+﻿using ISoft.Wpf.RichReports.Controls;
 using System.Windows;
 
-namespace ISoft.RichReportDesigner.UI.Controllers
+namespace ISoft.Wpf.RichReports.Controllers
 {
     //internal class RichDesignerEditorController
     //{

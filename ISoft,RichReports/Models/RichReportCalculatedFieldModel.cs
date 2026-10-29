@@ -1,10 +1,6 @@
-﻿using ISoft.RichReports.Core.Data;
-using ISoft.RichReports.Core.Fields;
-using ISoft.Utils.DataModel;
-using ISoft.Utils.Helpers;
-using System;
+﻿using System;
 
-namespace ISoft.RichReports.UI.DataModel
+namespace ISoft.RichReports.Models
 {
     public class RichReportCalculatedFieldModel : ObjectBase, IRichReportCalculatedFieldInfo
     { 

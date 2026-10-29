@@ -1,9 +1,6 @@
-﻿using DevExpress.Data;
-using DevExpress.Xpf.Editors.ExpressionEditor;
-using System;
-using System.Windows;
+﻿using System.Windows;
 
-namespace ISoft.RichReportDesigner.UI.RichEdit.ExpressionEditor
+namespace ISoft.Wpf.RichReports.Editor.Expressions
 {
     public delegate void RichUnboundExpressionEditorEventHandler(object sender, RichUnboundExpressionEditorEventArgs e);
 

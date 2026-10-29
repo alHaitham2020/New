@@ -1,24 +1,12 @@
-﻿using DevExpress.XtraPrinting;
-using DevExpress.XtraRichEdit.Model;
-using ISoft.Printing.Shared.Data;
-using ISoft.RichReports.Core.Client;
-using ISoft.RichReports.Core.Templates;
-using ISoft.RichReports.Data.DataSources;
-using ISoft.RichReports.Data.Fields;
-using ISoft.RichReports.Core.Fields;
-using ISoft.RichReports.Editor.RichProperties;
-using ISoft.RichReports.Editor.Services;
-using ISoft.RichReports.Editor.Services.Implementation;
-using ISoft.RichReports.Printing;
-using ISoft.Utils.Data;
-using ISoft.Utils.DataModel;
-using ISoft.Utils.Services;
-using System;
+﻿using System;
 using System.ComponentModel.Design;
 using System.Threading.Tasks;
-using ISoft.RichReports.Core.Model;
+using ISoft.RichReports.Data.Fields;
+using ISoft.RichReports.Printing;
+using ISoft.RichReports.Context;
+using ISoft.RichReports.Data.Sources;
 
-namespace ISoft.RichReports.UI
+namespace ISoft.RichReports.Models.Reports
 {
     /// <summary>
     /// Base report strategy providing core printing functionality across all platforms

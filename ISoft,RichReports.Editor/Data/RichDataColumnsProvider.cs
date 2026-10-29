@@ -1,6 +1,4 @@
-﻿using DevExpress.Data;
-using DevExpress.Data.Browsing;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;

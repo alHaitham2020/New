@@ -1,13 +1,4 @@
-﻿using DevExpress.Utils.Commands;
-using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.Commands;
-using DevExpress.XtraRichEdit.Fields;
-using DevExpress.XtraRichEdit.Model;
-using ISoft.Office.Barcode;
-using ISoft.RichReportDesigner.Core.Fields.Instructions;
-using ISoft.RichReportDesigner.Core.RichEdit.Fields;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.Commands
+﻿namespace ISoft.Wpf.RichReports.Editor.Commands
 {
     public class ChangeFieldBarcodeTypeCommand : ChangeFieldSwitchValueCommand<BarcodeType>
     {

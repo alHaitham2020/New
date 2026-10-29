@@ -1,10 +1,7 @@
-﻿
-using DevExpress.XtraRichEdit.API.Native;
-using ISoft.RichReports.Editor.RichProperties;
-using ISoft.RichReports.UI;
+﻿using ISoft.RichReports.Models.Reports;
 using System.Linq;
 
-namespace ISoft.RichReports.Editor.Services.Implementation
+namespace ISoft.RichReports.Services.Editor.Implementations
 {
     public class RichDefaultDocumentCustomPropertiesManagerService : IRichEditDocumentCustomPropertiesManagerService
     {

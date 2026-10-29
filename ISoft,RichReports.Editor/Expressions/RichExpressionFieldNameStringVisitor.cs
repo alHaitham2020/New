@@ -1,7 +1,4 @@
-﻿using DevExpress.Data.Filtering;
-using DevExpress.XtraReports.Native;
-
-namespace ISoft.RichReports.Editor.Expression
+﻿namespace ISoft.RichReports.Editor.Expressions
 {
     public class RichExpressionFieldNameStringVisitor : FullNameFilterStringVisitor
     {

@@ -1,13 +1,9 @@
-﻿using ISoft.Utils.DataAnnotations;
-using ISoft.Utils.Extentions;
-using ISoft.Utils.Helpers;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Reflection;
-using ISoft.Utils.Enumrations;
 using System.Collections.Concurrent;
-using ISoft.RichReports.Editor.Fields.Format;
-using ISoft.RichReports.Data.DataAnnotations;
+using ISoft.RichReports.Data.Fields;
+using ISoft.RichReports.Data.Annotations;
 
 namespace ISoft.RichReports.Data.Fields
 {

@@ -1,7 +1,9 @@
-﻿using System;
+﻿using ISoft.RichReports.Core.Abstractions.Storage.Templates;
+using ISoft.RichReports.Core.Utilities.Templates;
+using System;
 using System.Linq;
 
-namespace ISoft.RichReports.Core.Templates.FileSystem
+namespace ISoft.RichReports.Core.Utilities.Templates
 {
     public static class RichTemplateRegistryExtensions
     {

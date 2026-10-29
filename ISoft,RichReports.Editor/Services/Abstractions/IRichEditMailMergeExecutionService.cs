@@ -1,8 +1,6 @@
-﻿using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.API.Native;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Editor.Services
+namespace ISoft.RichReports.Editor.Services.Abstractions
 {
     public interface IRichEditMailMergeExecutionService
     {

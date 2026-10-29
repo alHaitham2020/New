@@ -1,7 +1,6 @@
-﻿using ISoft.RichReports.UI.DataModel;
-using System.Windows.Media;
+﻿using System.Windows.Media;
 
-namespace ISoft.Wpf.RichReports.DataModel
+namespace ISoft.Wpf.RichReports.Models
 {
     public interface IXpfRichReportTemplatePreviewItem : IRichReportTemplatePreviewItem
     {

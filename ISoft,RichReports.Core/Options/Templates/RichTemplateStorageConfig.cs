@@ -1,6 +1,8 @@
-﻿using System.IO;
+﻿using ISoft.RichReports.Core.Abstractions.Storage.Templates;
+using ISoft.RichReports.Core.Templates;
+using System.IO;
 
-namespace ISoft.RichReports.Core.Templates.FileSystem
+namespace ISoft.RichReports.Core.Options.Templates
 {
     /// <summary>
     /// Configuration for template storage locations

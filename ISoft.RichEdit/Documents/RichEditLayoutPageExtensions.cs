@@ -1,10 +1,8 @@
-﻿using DevExpress.XtraRichEdit.API.Layout;
-using DevExpress.XtraRichEdit.API.Native;
-using ISoft.RichEdit.Model;
+﻿using ISoft.RichEdit.Documents;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ISoft.RichEdit.Model
+namespace ISoft.RichEdit.Documents
 {
     public static class RichEditLayoutPageExtensions
     {

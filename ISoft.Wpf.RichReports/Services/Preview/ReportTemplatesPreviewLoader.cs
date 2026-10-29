@@ -1,8 +1,4 @@
-﻿using ISoft.Utils.Data.AsyncData;
-using System;
-using System.Threading;
-
-namespace ISoft.Wpf.RichReports.Helpers
+﻿namespace ISoft.Wpf.RichReports.Services.Preview
 {
     internal sealed class ReportTemplatesPreviewLoader : IDisposable
     {

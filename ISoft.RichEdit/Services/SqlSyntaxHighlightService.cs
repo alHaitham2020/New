@@ -1,6 +1,4 @@
-﻿using DevExpress.XtraRichEdit.API.Native;
-using DevExpress.XtraRichEdit.Services;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;

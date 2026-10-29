@@ -1,10 +1,4 @@
-﻿using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.Commands;
-using DevExpress.XtraRichEdit.Internal;
-using DevExpress.XtraRichEdit.Services.Implementation;
-using ISoft.Utils.Extentions;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.Commands
+﻿namespace ISoft.Wpf.RichReports.Editor.Commands
 {
     public class RichEditCommandRepositoryHolder : XpfRichEditCommandRepositoryHolder
     {

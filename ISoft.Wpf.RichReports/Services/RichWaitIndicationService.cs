@@ -1,12 +1,4 @@
-﻿using ISoft.Mvvm.Extentions;
-using ISoft.Mvvm.Services;
-using ISoft.RichReports.Editor.Services;
-using ISoft.Utils.Data.AsyncData;
-using ISoft.Utils.Helpers;
-using System;
-using System.Threading.Tasks;
-
-namespace ISoft.Wpf.RichReports.Services
+﻿namespace ISoft.Wpf.RichReports.Services
 {
     public class RichWaitIndicationService : IRichWaitIndicationService
     {

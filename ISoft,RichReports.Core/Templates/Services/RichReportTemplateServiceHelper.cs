@@ -1,6 +1,7 @@
-﻿using System.Threading.Tasks;
+﻿using ISoft.RichReports.Core.Abstractions.Templates;
+using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Client
+namespace ISoft.RichReports.Core.Templates.Services
 {
     public static class RichReportTemplateServiceHelper
     {

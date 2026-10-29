@@ -1,5 +1,4 @@
-﻿using ISoft.Utils.Extentions;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
 namespace ISoft.RichReports.Editor.Fields.Switches

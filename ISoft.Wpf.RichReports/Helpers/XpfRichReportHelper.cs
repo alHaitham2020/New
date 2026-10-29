@@ -1,11 +1,4 @@
-﻿using DevExpress.Mvvm.POCO;
-using DevExpress.Mvvm.UI;
-using ISoft.Mvvm.Extentions;
-using ISoft.Mvvm.Services;
-using ISoft.Utils.Helpers;
-using ISoft.Windows.Helpers;
-using ISoft.Wpf.RichReports.DataModel;
-using System;
+﻿using ISoft.Wpf.RichReports.Models;
 
 namespace ISoft.Wpf.RichReports.Helpers
 {

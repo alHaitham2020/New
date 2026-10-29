@@ -1,8 +1,7 @@
-﻿using DevExpress.XtraRichEdit.API.Native;
-using System.Threading;
+﻿using System.Threading;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Editor.Services
+namespace ISoft.RichReports.Editor.Services.Abstractions
 {
     public interface IRichEditDocumentRegionRenderService
     {

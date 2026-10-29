@@ -1,4 +1,4 @@
-﻿using ISoft.Utils.Caching;
+﻿using ISoft.RichReports.Core.Abstractions.Storage.Templates;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Templates.FileSystem
+namespace ISoft.RichReports.Core.Storage.Templates.FileSystem
 {
     /// <summary>
     /// Physical template folder implementation with async support

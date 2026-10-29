@@ -1,8 +1,6 @@
-﻿using DevExpress.Xpf.RichEdit;
-using DevExpress.XtraRichEdit.Commands;
-using ISoft.RichReportDesigner.UI.Controls;
+﻿using ISoft.Wpf.RichReports.Controls;
 
-namespace ISoft.RichReportDesigner.UI.RichEdit.Commands
+namespace ISoft.Wpf.RichReports.Editor.Commands
 {
     public class XpfRichEditUICommand : RichEditUICommand
     {

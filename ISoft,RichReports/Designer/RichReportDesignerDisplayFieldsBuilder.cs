@@ -1,11 +1,7 @@
 ﻿using ISoft.RichReports.Data.Fields;
 using ISoft.RichReports.Designer.Fields;
-using ISoft.RichReports.Editor.Fields.Core;
-using ISoft.RichReports.Editor.RichProperties;
-using ISoft.RichReports.Editor.Services;
 using ISoft.RichReports.Fields;
-using ISoft.RichReports.UI;
-using ISoft.Utils.Drawing;
+using ISoft.RichReports.Models.Reports;
 using System;
 using System.Collections.Generic;
 using System.Linq;

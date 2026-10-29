@@ -1,6 +1,4 @@
-﻿using DevExpress.XtraRichEdit.Fields;
-
-namespace ISoft.RichReports.Editor.Services.Implementation
+﻿namespace ISoft.RichReports.Editor.Services.Implementations
 {
     public class RichFieldFunctionCalculatorFactory : FieldFunctionCalculatorFactory
     {

@@ -1,6 +1,4 @@
-﻿using ISoft.RichReportDesigner.Core.Fields.Format;
-
-namespace ISoft.RichReportDesigner.UI.Markup.Extensions
+﻿namespace ISoft.Wpf.RichReports.Markup.Extensions
 {
     public sealed class RichFieldNumericFormatsSourceExtension : RichFieldFormatsSourceExtensionBase
     {

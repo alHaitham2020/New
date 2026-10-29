@@ -1,8 +1,4 @@
-﻿using DevExpress.XtraPrinting;
-using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.API.Native;
-using ISoft.RichReports.Core.Templates;
-using System;
+﻿using System;
 using System.IO;
 using System.Threading.Tasks;
 

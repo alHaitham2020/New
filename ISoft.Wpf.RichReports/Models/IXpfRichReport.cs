@@ -1,9 +1,4 @@
-﻿using ISoft.RichReports.Core.Templates;
-using ISoft.RichReports.UI;
-using System;
-using System.Threading.Tasks;
-
-namespace ISoft.Wpf.RichReports.DataModel
+﻿namespace ISoft.Wpf.RichReports.Models
 {
     public interface IXpfRichReport : IRichReport
     {

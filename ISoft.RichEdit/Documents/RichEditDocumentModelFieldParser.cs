@@ -1,8 +1,4 @@
-﻿using DevExpress.XtraRichEdit.Fields;
-using DevExpress.XtraRichEdit.Model;
-using ISoft.Utils.Extentions;
-
-namespace ISoft.RichEdit.Model
+﻿namespace ISoft.RichEdit.Documents
 {
     public class RichEditDocumentModelFieldParser
     {

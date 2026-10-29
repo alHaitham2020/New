@@ -1,6 +1,6 @@
-﻿using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Editor.Properties.RichProperties;
 
-namespace ISoft.RichReports.Editor.RichProperties
+namespace ISoft.RichReports.Editor.Properties.RichProperties
 {
     public static class RichPropertyHelper
     {

@@ -1,17 +1,8 @@
-﻿using DevExpress.Mvvm.DataAnnotations;
-using DevExpress.Mvvm.POCO;
-using ISoft.Mvvm.Helpers;
-using ISoft.Printing.Core.Xpf.BandDesigner;
-using ISoft.Utils.Data.AsyncData;
-using ISoft.Utils.DataModel;
-using ISoft.Utils.Helpers;
-using ISoft.Wpf.RichReports.Helpers;
-using System;
-using System.Threading.Tasks;
+﻿using ISoft.Wpf.RichReports.Services.Preview;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 
-namespace ISoft.Wpf.RichReports.DataModel
+namespace ISoft.Wpf.RichReports.Models
 {
     public class XpfRichReportTemplatePreviewItem : POCOMvvmObjectBase, IXpfRichReportTemplatePreviewItem
     {

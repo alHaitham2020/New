@@ -1,9 +1,7 @@
-﻿using ISoft.Printing.Shared.Data;
-using ISoft.RichReports.Core.Client;
-using ISoft.RichReports.Data.DataSources;
-using ISoft.RichReports.Editor.RichProperties;
+﻿using ISoft.RichReports.Data.Sources;
+using ISoft.RichReports.Models.Reports;
 
-namespace ISoft.RichReports.UI
+namespace ISoft.RichReports.Context
 {
     /// <summary>
     /// Report context containing all required dependencies

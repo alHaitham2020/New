@@ -1,6 +1,4 @@
-﻿using ISoft.Utils.Caching;
-
-namespace ISoft.RichReports.Editor.Fields.Switches
+﻿namespace ISoft.RichReports.Editor.Fields.Switches
 {
     public interface IRichFieldSwitchCollection : IRichFieldSwitchReadOnlyCollection, IUniqueItemsCache<string, IRichFieldSwitch>
     {

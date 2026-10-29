@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ISoft.RichReports.Editor.Fields.Format
+namespace ISoft.RichReports.Editor.Fields.Formatting
 {
     public enum RichFieldGeneralFormatType
     {

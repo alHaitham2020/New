@@ -1,10 +1,9 @@
-﻿using ISoft.RichReports.Core.Templates;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Client
+namespace ISoft.RichReports.Core.Abstractions.Templates
 {
     /// <summary>
     /// Provider for default/built-in templates

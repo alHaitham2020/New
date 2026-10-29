@@ -1,10 +1,10 @@
-﻿using ISoft.RichReports.Core.Data;
+﻿using ISoft.RichReports.Core.Abstractions.Data;
 using System;
 using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Client
+namespace ISoft.RichReports.Core.Abstractions.Fields
 {
     public interface IRichReportCalculatedFieldInfoProvider
     {

@@ -1,9 +1,6 @@
-﻿using DevExpress.Office.Utils;
-using DevExpress.Office.Utils.Internal;
-using DevExpress.XtraRichEdit.Fields;
-using DevExpress.XtraRichEdit.Model;
-using ISoft.RichReports.Editor.Fields.Instructions;
-using ISoft.RichReports.Editor.Services;
+﻿using ISoft.RichReports.Editor.Fields.Instructions;
+using ISoft.RichReports.Editor.Internal.Fields;
+using ISoft.RichReports.Editor.Services.Abstractions;
 using System.Collections.Generic;
 using System.IO;
 

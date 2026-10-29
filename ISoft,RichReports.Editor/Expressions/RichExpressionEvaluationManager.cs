@@ -1,8 +1,6 @@
-﻿using DevExpress.Data.Filtering;
-using DevExpress.Data.Filtering.Helpers;
-using System.ComponentModel;
+﻿using System.ComponentModel;
 
-namespace ISoft.RichReports.Editor.Expression
+namespace ISoft.RichReports.Editor.Expressions
 {
     public class RichExpressionEvaluationManager
     {

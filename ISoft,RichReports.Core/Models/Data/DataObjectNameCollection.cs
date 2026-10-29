@@ -1,12 +1,7 @@
-﻿using DevExpress.XtraReports.Native;
-using System;
+﻿using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Model
+namespace ISoft.RichReports.Core.Models.Data
 {
     public class DataObjectNameCollection : CollectionBase
     {

@@ -1,5 +1,4 @@
-﻿using ISoft.Utils.Data.Collection;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace ISoft.RichReports.Editor.Fields.Codes
 {

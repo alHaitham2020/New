@@ -1,13 +1,11 @@
-﻿using DevExpress.Mvvm.Native;
-using ISoft.RichReports.Editor.Fields.Switches;
+﻿using ISoft.RichReports.Editor.Fields.Switches;
 using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
-using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Threading;
 
-namespace ISoft.RichReports.Editor.Fields.Format
+namespace ISoft.RichReports.Editor.Fields.Formatting
 {
     public class RichFieldFormatManager : IRichFieldFormatManager
     {

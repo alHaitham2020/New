@@ -1,11 +1,9 @@
-﻿using DevExpress.Mvvm.Native;
-using ISoft.Utils.Helpers;
-using System;
+﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ISoft.RichReports.Editor.Fields.Format
+namespace ISoft.RichReports.Editor.Fields.Formatting
 {
     public abstract class RichFieldFormatProviderBase<TFormatId> : IRichFieldFormatProvider<TFormatId> where TFormatId : struct
     {

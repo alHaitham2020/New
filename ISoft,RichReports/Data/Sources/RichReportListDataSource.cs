@@ -3,7 +3,7 @@ using System;
 using System.Collections;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Data.DataSources
+namespace ISoft.RichReports.Data.Sources
 {
     public class RichReportListDataSource : RichReportDataSourceBase
     {

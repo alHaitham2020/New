@@ -1,15 +1,4 @@
-﻿using DevExpress.Data.Controls.ExpressionEditor;
-using DevExpress.Xpf.ExpressionEditor;
-using ISoft.RichReportDesigner.Core.Constants;
-using ISoft.RichReportDesigner.Core.Fields.Data;
-using ISoft.RichReportDesigner.Core.RichEdit;
-using ISoft.RichReportDesigner.Core.RichEdit.Expression;
-using ISoft.RichReportDesigner.Core.RichEdit.Properties;
-using ISoft.RichReportDesigner.Core.RichEdit.Services;
-using ISoft.Utils.Services;
-using System.Linq;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.ExpressionEditor
+﻿namespace ISoft.Wpf.RichReports.Editor.Expressions
 {
     /// <summary>
     /// Factory responsible for creating <see cref="ExpressionEditorContext"/> instances

@@ -1,10 +1,4 @@
-﻿using DevExpress.Utils.Commands;
-using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.Commands;
-using DevExpress.XtraRichEdit.Localization;
-using ISoft.RichReportDesigner.Core.RichEdit;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.Commands
+﻿namespace ISoft.Wpf.RichReports.Editor.Commands
 {
     public abstract class RichEditMenuItemSimpleCommandBase : RichEditMenuItemSimpleCommand
     {

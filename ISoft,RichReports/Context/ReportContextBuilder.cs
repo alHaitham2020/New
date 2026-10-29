@@ -1,12 +1,9 @@
-﻿using ISoft.Printing.Shared.Data;
-using ISoft.RichReports.Core.Client;
-using ISoft.RichReports.Data.DataSources;
-using ISoft.RichReports.Editor.RichProperties;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Data.Sources;
+using ISoft.RichReports.Models.Reports;
 using System;
 using System.Collections.Generic;
 
-namespace ISoft.RichReports.UI
+namespace ISoft.RichReports.Context
 {
     /// <summary>
     /// Fluent builder for creating report contexts with simplified API

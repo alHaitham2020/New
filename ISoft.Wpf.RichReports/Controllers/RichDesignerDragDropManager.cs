@@ -1,14 +1,10 @@
-﻿using DevExpress.Xpf.Accordion;
-using ISoft.RichReportDesigner.Core.Fields.Display;
-using ISoft.RichReportDesigner.UI.Controls;
-using ISoft.Utils.Helpers;
-using System;
+﻿using ISoft.Wpf.RichReports.Controls;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media;
 
-namespace ISoft.RichReportDesigner.UI.Controllers
+namespace ISoft.Wpf.RichReports.Controllers
 {
     internal sealed class RichDesignerDragDropManager
     {

@@ -1,6 +1,6 @@
-﻿using ISoft.RichReports.Editor.Fields.Format;
+﻿using ISoft_RichReports.Editor.Fields.Formatting;
 
-namespace ISoft.RichReports.Editor.Fields.Switches
+namespace ISoft_RichReports.Editor.Fields.Switches
 {
     public class RichFieldFluentSwitchBuilder : IRichFieldFluentSwitchBuilder
     {

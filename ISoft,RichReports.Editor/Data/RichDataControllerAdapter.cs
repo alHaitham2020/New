@@ -1,9 +1,4 @@
-﻿using DevExpress.Data;
-using DevExpress.Data.Filtering;
-using DevExpress.Data.Filtering.Helpers;
-using DevExpress.XtraRichEdit.Native;
-using ISoft.RichReports.Editor.Services;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Editor.Services.Abstractions;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;

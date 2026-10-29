@@ -1,6 +1,4 @@
-﻿using DevExpress.Data.Native;
-
-namespace ISoft.RichReports.Core.Model
+﻿namespace ISoft.RichReports.Core.Models.Data
 {
     public class DataObjectName
     {

@@ -1,8 +1,4 @@
-﻿using ISoft.RichReports.Editor.Fields.Format;
-using ISoft.Utils.DataModel;
-using ISoft.Utils.Helpers;
-
-namespace ISoft.RichReports.Editor.Fields.Switches
+﻿namespace ISoft.RichReports.Editor.Fields.Switches
 {
     /// <summary>
     /// Represents a field switch (e.g., \* Upper, \# $#,##0.00)

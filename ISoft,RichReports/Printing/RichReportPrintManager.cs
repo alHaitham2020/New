@@ -1,9 +1,4 @@
-﻿using DevExpress.XtraPrinting;
-using ISoft.RichReports.Core.Templates;
-using ISoft.RichReports.Editor.Preview;
-using ISoft.RichReports.Editor.Services;
-using ISoft.RichReports.UI;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Models.Reports;
 using System;
 using System.Threading.Tasks;
 

@@ -1,8 +1,4 @@
-﻿using DevExpress.Xpf.Core;
-using ISoft.RichReportDesigner.UI.Controls;
-
-
-namespace ISoft.RichReportDesigner.UI.View
+﻿namespace ISoft.Wpf.RichReports.Views
 {
     /// <summary>
     /// Interaction logic for DXWindow1.xaml

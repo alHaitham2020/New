@@ -1,14 +1,12 @@
-﻿using ISoft.RichReports.Core.Templates;
-using ISoft.RichReports.Core.Templates.FileSystem;
-using ISoft.Utils.Caching;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Core.Abstractions.Storage.Templates;
+using ISoft.RichReports.Core.Abstractions.Templates;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Client
+namespace ISoft.RichReports.Core.Templates.Defaults
 {
     /// <summary>
     /// Optimized default template provider with caching and parallel loading

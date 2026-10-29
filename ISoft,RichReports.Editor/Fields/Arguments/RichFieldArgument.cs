@@ -1,7 +1,4 @@
-﻿using ISoft.Utils.DataModel;
-using ISoft.Utils.Helpers;
-
-namespace ISoft.RichReports.Editor.Fields.Argumentes
+﻿namespace ISoft.RichReports.Editor.Fields.Arguments
 {
     /// <summary>
     /// Base implementation of a field argument

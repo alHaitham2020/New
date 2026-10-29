@@ -1,11 +1,4 @@
-﻿using DevExpress.Office.Utils;
-using DevExpress.Office.Utils.Internal;
-using DevExpress.XtraRichEdit.Fields;
-using DevExpress.XtraRichEdit.Model;
-using ISoft.Office.Barcode;
-using ISoft.Office.Images;
-
-namespace ISoft.RichReports.Editor.Internal.Fields
+﻿namespace ISoft.RichReports.Editor.Internal.Fields
 {
     internal static class RichEditFieldBarcodeManager
     {

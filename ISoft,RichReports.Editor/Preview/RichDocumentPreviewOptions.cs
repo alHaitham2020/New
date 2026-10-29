@@ -1,7 +1,4 @@
-﻿using DevExpress.XtraRichEdit;
-using ISoft.RichReports.Core.Templates;
-
-namespace ISoft.RichReports.Editor.Preview
+﻿namespace ISoft.RichReports.Editor.Preview
 {
     public interface IRichDocumentPreviewOptions
     {

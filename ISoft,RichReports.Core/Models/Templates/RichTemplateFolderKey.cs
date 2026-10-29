@@ -1,4 +1,6 @@
-﻿namespace ISoft.RichReports.Core.Templates.FileSystem
+﻿using ISoft.RichReports.Core.Abstractions.Storage.Templates;
+
+namespace ISoft.RichReports.Core.Models.Templates
 {
     public readonly struct RichTemplateFolderKey : IRichTemplateFolderKey
     {

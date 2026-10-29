@@ -1,12 +1,4 @@
-﻿using DevExpress.Mvvm;
-using DevExpress.Utils;
-using ISoft.RichReportDesigner.Core.Reports.DataModel;
-using ISoft.Utils.DataModel;
-using ISoft.Utils.Helpers;
-using System;
-using System.Collections.Generic;
-
-namespace ISoft.RichReportDesigner.UI.Controls
+﻿namespace ISoft.Wpf.RichReports.Controls
 {
     public class RichReportDesignerCommands : ObservableObject
     {

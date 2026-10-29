@@ -1,10 +1,8 @@
-﻿using ISoft.Utils.Extentions;
-using ISoft.Utils.Resources;
-using System;
+﻿using System;
 using System.IO;
 using System.Linq;
 
-namespace ISoft.RichReports.Core.Templates.FileSystem
+namespace ISoft.RichReports.Core.Models.Templates
 {
     /// <summary>
     /// Template definition for registration

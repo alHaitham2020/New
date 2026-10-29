@@ -1,18 +1,6 @@
-﻿using DevExpress.Mvvm.POCO;
-using ISoft.Mvvm.Data;
-using ISoft.RichReports.Core.Templates;
-using ISoft.Utils.Data.AsyncData;
-using ISoft.Utils.Extentions;
-using ISoft.Utils.Helpers;
-using ISoft.Utils.Mvvm;
-using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Linq;
-using System.Threading;
-using System.Threading.Tasks;
+﻿using System.Collections.ObjectModel;
 
-namespace ISoft.Wpf.RichReports.DataModel
+namespace ISoft.Wpf.RichReports.Models
 {
     /// <summary>
     /// Thread-safe template items collection with async loading support

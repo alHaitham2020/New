@@ -1,4 +1,4 @@
-﻿namespace ISoft.RichReports.Core.Templates.FileSystem
+﻿namespace ISoft.RichReports.Core.Abstractions.Storage.Templates
 {
     public interface IRichTemplateStorageConfig
     {

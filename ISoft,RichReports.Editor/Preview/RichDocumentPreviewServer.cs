@@ -1,17 +1,9 @@
-﻿using DevExpress.Office.Services;
-using DevExpress.XtraPrinting;
-using DevExpress.XtraRichEdit;
-using ISoft.RichEdit.Native;
-using ISoft.RichReports.Core.Model;
-using ISoft.RichReports.Core.Templates;
-using ISoft.RichReports.Editor.Services;
-using ISoft.Utils.Extentions;
-using ISoft.Utils.Helpers;
+﻿using ISoft_RichReports.Editor.Services.Abstractions;
 using System;
 using System.IO;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Editor.Preview
+namespace ISoft_RichReports.Editor.Preview
 {
     /// <summary>
     /// Main template processor that coordinates all services

@@ -1,4 +1,4 @@
-﻿namespace ISoft.RichReports.Editor.Fields.Switches
+﻿namespace ISoft_RichReports.Editor.Fields.Switches
 {
     public class RichFieldSwitchScanResult
     {

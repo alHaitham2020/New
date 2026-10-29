@@ -1,7 +1,7 @@
-﻿using ISoft.RichReports.Fields;
+﻿using ISoft_RichReports.Fields;
 using System.Drawing;
 
-namespace ISoft.RichReports.Designer.Fields
+namespace ISoft_RichReports.Designer.Fields
 {
     public interface IRichDisplayFieldGroup : IRichFieldGroup
     {

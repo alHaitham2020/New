@@ -1,8 +1,7 @@
-﻿using DevExpress.XtraRichEdit.Fields;
-using ISoft.RichReports.Editor.Internal;
+﻿using ISoft.RichReports.Editor.Internal;
 using ISoft.RichReports.Editor.Internal.Fields;
 
-namespace ISoft.RichReports.Editor.Services.Implementation
+namespace ISoft.RichReports.Editor.Services.Implementations
 {
     public class RichEditFieldCalculatorService : FieldCalculatorService
     {

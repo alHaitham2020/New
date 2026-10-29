@@ -1,8 +1,7 @@
-﻿using ISoft.Utils.Data.Collection;
-using System;
+﻿using System;
 using System.Collections.Generic;
 
-namespace ISoft.RichReports.Editor.RichProperties
+namespace ISoft.RichReports.Editor.Properties.RichProperties
 {
     public class RichCalculatedFieldProperties : UniqueDataCollectionBase<string, IRichCalculatedFieldProperty>, IRichCalculatedFieldProperties
     {

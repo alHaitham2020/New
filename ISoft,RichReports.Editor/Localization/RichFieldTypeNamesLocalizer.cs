@@ -1,5 +1,4 @@
 ﻿using ISoft.RichReports.Editor.Fields.Core;
-using ISoft.Utils.Localization;
 
 namespace ISoft.RichReports.Editor.Localization
 {

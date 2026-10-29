@@ -1,10 +1,8 @@
-﻿using ISoft.RichReports.Core.Fields;
-using ISoft.Utils.Data.Collection;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ISoft.RichReports.UI.DataModel
+namespace ISoft.RichReports.Models
 {
     public class RichCalculatedFieldModelCollection : ObservableUniqueDataCollectionBase<string, RichReportCalculatedFieldModel>
     {

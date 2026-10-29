@@ -1,6 +1,4 @@
-﻿using ISoft.Core.UI.Controls;
-
-namespace ISoft.RichReportDesigner.UI.View
+﻿namespace ISoft.Wpf.RichReports.Views
 {
     /// <summary>
     /// Interaction logic for RichReportDesignerDocumentView.xaml

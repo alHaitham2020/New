@@ -1,9 +1,6 @@
-﻿using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.Internal;
-using DevExpress.XtraRichEdit.Services.Implementation;
-using ISoft.RichReportDesigner.UI.RichEdit.Commands;
+﻿using ISoft.Wpf.RichReports.Editor.Commands;
 
-namespace ISoft.RichReportDesigner.UI.RichEdit.Services
+namespace ISoft.Wpf.RichReports.Editor.Services
 {
     public class RichEditorCommandsFactoryService : XpfRichEditCommandFactoryService
     {

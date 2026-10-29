@@ -1,9 +1,8 @@
-﻿using ISoft.RichReports.Editor.Fields.Argumentes;
+﻿using ISoft.RichReports.Editor.Fields.Arguments;
 using ISoft.RichReports.Editor.Fields.Codes;
-using ISoft.RichReports.Editor.Fields.Format;
+using ISoft.RichReports.Editor.Fields.Formatting;
 using ISoft.RichReports.Editor.Fields.Options;
 using ISoft.RichReports.Editor.Fields.Switches;
-using ISoft.Utils.Helpers;
 using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;

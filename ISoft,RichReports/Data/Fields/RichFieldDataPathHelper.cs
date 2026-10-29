@@ -1,7 +1,6 @@
-﻿using ISoft.Utils.Extentions;
-using System;
+﻿using System;
 
-namespace ISoft.RichReports.Data.Fields
+namespace ISoft_RichReports.Data.Fields
 {
     public static class RichFieldDataPathHelper
     {

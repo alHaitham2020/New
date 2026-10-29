@@ -1,20 +1,15 @@
-﻿using DevExpress.Mvvm.Native;
-using DevExpress.XtraRichEdit.API.Native;
-using ISoft.Office.Images;
-using ISoft.RichEdit.Native;
-using ISoft.RichReports.Editor.Fields.Codes;
+﻿using ISoft.RichReports.Editor.Fields.Codes;
 using ISoft.RichReports.Editor.Fields.Core;
-using ISoft.RichReports.Editor.Fields.Format;
-using ISoft.RichReports.Editor.Fields.Instructions;
+using ISoft.RichReports.Editor.Fields.Formatting;
 using ISoft.RichReports.Editor.Fields.Options;
 using ISoft.RichReports.Editor.Fields.Regions;
 using ISoft.RichReports.Editor.Fields.Search;
 using ISoft.RichReports.Editor.Fields.Switches;
-using ISoft.Utils.Helpers;
+using ISoft.RichReports.Editor.Services.Abstractions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-namespace ISoft.RichReports.Editor.Services.Implementation
+namespace ISoft.RichReports.Editor.Services.Implementations
 {
     /// <summary>
     /// Comprehensive field management service for creating, scanning, updating,

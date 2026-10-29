@@ -1,6 +1,6 @@
 ﻿using System.Drawing;
 
-namespace ISoft.RichReports.Core.Fields
+namespace ISoft.RichReports.Core.Abstractions.Fields
 {
     public interface IRichFieldHighlightInfo
     {

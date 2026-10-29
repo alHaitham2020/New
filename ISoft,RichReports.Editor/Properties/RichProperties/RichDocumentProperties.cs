@@ -1,13 +1,10 @@
-﻿using DevExpress.Mvvm.Native;
-using ISoft.RichReports.Editor.Fields.Format;
-using ISoft.Utils.Constants;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Editor.Fields.Formatting;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 
-namespace ISoft.RichReports.Editor.RichProperties
+namespace ISoft.RichReports.Editor.Properties.RichProperties
 {
     /// <summary>
     /// contains all the properties of type RichDocumentProperty for each devexpress DocumentProperties (this class can be inherted for custom customize

@@ -1,8 +1,8 @@
-﻿using ISoft.RichReports.Core.Fields;
-using ISoft.Utils.DataModel;
+﻿using ISoft.RichReports.Core.Abstractions.Data;
+using ISoft.RichReports.Core.Enums;
 using System;
 
-namespace ISoft.RichReports.Core.Data
+namespace ISoft.RichReports.Core.Models.Data
 {
     public class RichReportCalculatedFieldInfo : ObjectBase, IRichReportCalculatedFieldInfo
     {

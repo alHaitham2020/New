@@ -1,9 +1,5 @@
-﻿using DevExpress.XtraRichEdit.Fields;
-using DevExpress.XtraRichEdit.Model;
-using ISoft.Office.Barcode;
-using ISoft.RichReports.Editor.Fields.Instructions;
-using ISoft.RichReports.Editor.Services;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Editor.Fields.Instructions;
+using ISoft.RichReports.Editor.Services.Abstractions;
 using System;
 using System.Collections.Generic;
 

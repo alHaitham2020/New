@@ -1,4 +1,4 @@
-﻿namespace ISoft.RichReports.Editor.Services
+﻿namespace ISoft.RichReports.Editor.Services.Abstractions
 {
     public interface IRichProgressIndicationService
     {

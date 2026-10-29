@@ -1,10 +1,6 @@
-﻿using ISoft.Mvvm.Extentions;
-using ISoft.Mvvm.ViewModel.Common;
-using ISoft.RichReportDesigner.UI.DataModel;
-using ISoft.RichReportDesigner.UI.UIServices;
-using ISoft.Utils.Extentions;
+﻿using ISoft.Wpf.RichReports.Services.UI;
 
-namespace ISoft.RichReportDesigner.UI.ViewModel
+namespace ISoft.Wpf.RichReports.ViewModels
 {
     public class RichReportDesignerDocumentViewModel : DocumentViewModelBase
     {

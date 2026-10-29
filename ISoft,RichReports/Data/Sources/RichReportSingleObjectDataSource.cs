@@ -1,8 +1,8 @@
-﻿using ISoft.RichReports.Data.Fields;
+﻿using ISoft_RichReports.Data.Fields;
 using System;
 using System.Collections;
 
-namespace ISoft.RichReports.Data.DataSources
+namespace ISoft_RichReports.Data.Sources
 {
     public sealed class RichReportSingleObjectDataSource : RichReportListDataSource
     {

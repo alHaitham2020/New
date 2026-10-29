@@ -1,10 +1,8 @@
-﻿using ISoft.RichReports.Core.Templates;
-using ISoft.Utils.Data;
-using System;
+﻿using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Client
+namespace ISoft.RichReports.Core.Abstractions.Templates
 {
     public interface IRichReportTemplateService
     {

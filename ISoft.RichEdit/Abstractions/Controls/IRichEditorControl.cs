@@ -1,10 +1,7 @@
-﻿using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.API.Layout;
-using DevExpress.XtraRichEdit.API.Native;
-using System.Drawing;
+﻿using System.Drawing;
 using System.IO;
 
-namespace ISoft.RichEdit.UI
+namespace ISoft.RichEdit.Abstractions.Controls
 {
     public interface IRichEditorControl : IRichEditControl
     {

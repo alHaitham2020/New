@@ -1,5 +1,4 @@
-﻿
-namespace ISoft.RichReports.Editor.Fields.Switches
+﻿namespace ISoft.RichReports.Editor.Fields.Switches
 {
     public interface IRichFieldSwitch
     {

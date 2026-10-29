@@ -1,6 +1,4 @@
-﻿using ISoft.Core.UI.ThemeResources;
-
-namespace ISoft.RichReportDesigner.UI.Markup.ThemeResources
+﻿namespace ISoft.Wpf.RichReports.Markup.ThemeResources
 {
     public class RichDesignerViewThemeResourceExtension : ThemeDynamicResourceExtensionBase<RichDesignerViewThemeKeys>
     {

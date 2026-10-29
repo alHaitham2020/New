@@ -1,4 +1,4 @@
-﻿using ISoft.RichReports.Editor.Fields.Format;
+﻿using ISoft.RichReports.Editor.Fields.Formatting;
 using ISoft.RichReports.Editor.Fields.Instructions;
 
 namespace ISoft.RichReports.Editor.Fields.Options

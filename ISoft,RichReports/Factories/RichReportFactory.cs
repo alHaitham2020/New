@@ -1,9 +1,8 @@
-﻿using ISoft.Printing.Shared.Data;
-using ISoft.RichReports.Core.Client;
-using ISoft.RichReports.Core.Templates.FileSystem;
-using ISoft.RichReports.Data.DataSources;
+﻿using ISoft.RichReports.Context;
+using ISoft.RichReports.Data.Sources;
+using ISoft.RichReports.Models.Reports;
 
-namespace ISoft.RichReports.UI
+namespace ISoft.RichReports.Factories
 {
     /// <summary>
     /// Factory for creating report instances

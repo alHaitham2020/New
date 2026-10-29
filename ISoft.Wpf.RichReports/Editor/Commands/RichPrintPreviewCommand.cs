@@ -1,9 +1,4 @@
-﻿using DevExpress.Utils.Commands;
-using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.Commands;
-using ISoft.RichReportDesigner.Core.RichEdit;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.Commands
+﻿namespace ISoft.Wpf.RichReports.Editor.Commands
 {
     public class RichPrintPreviewCommand : PrintPreviewCommand
     {

@@ -1,7 +1,4 @@
-﻿using DevExpress.Data.Controls.ExpressionEditor;
-using DevExpress.DataAccess.Native.ExpressionEditor;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.ExpressionEditor
+﻿namespace ISoft.Wpf.RichReports.Editor.Expressions
 {
     public class RichEditExpressionEditorController : ExpressionEditorController
     {

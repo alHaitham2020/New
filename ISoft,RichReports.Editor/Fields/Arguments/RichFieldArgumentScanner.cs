@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace ISoft.RichReports.Editor.Fields.Argumentes
+namespace ISoft.RichReports.Editor.Fields.Arguments
 {
     /// <summary>
     /// Specialized scanner for parsing quoted arguments in Word field codes.

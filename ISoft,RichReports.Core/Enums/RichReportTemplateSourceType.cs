@@ -1,4 +1,4 @@
-﻿namespace ISoft.RichReports.Core.Client
+﻿namespace ISoft.RichReports.Core.Enums
 {
     public enum RichReportTemplateSourceType
     {

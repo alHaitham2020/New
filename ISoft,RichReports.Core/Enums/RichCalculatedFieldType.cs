@@ -1,4 +1,4 @@
-﻿namespace ISoft.RichReports.Core.Fields
+﻿namespace ISoft.RichReports.Core.Enums
 {
     public enum RichCalculatedFieldType
     {

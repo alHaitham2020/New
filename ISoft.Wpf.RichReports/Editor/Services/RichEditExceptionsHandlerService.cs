@@ -1,9 +1,4 @@
-﻿using DevExpress.Xpf.RichEdit;
-using DevExpress.XtraRichEdit;
-using ISoft.Mvvm.Helpers;
-using System;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.Services
+﻿namespace ISoft.Wpf.RichReports.Editor.Services
 {
     public class RichEditExceptionsHandlerService
     {

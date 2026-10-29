@@ -1,8 +1,7 @@
-﻿using ISoft.Utils.Mvvm;
-using System;
+﻿using System;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.UI.DataModel
+namespace ISoft.RichReports.Models
 {
     public interface IRichReportTemplateItemsSource
     {

@@ -1,6 +1,8 @@
-﻿using System;
+﻿using ISoft_RichReports.Context;
+using ISoft_RichReports.Models.Reports;
+using System;
 
-namespace ISoft.RichReports.UI
+namespace ISoft_RichReports.Factories
 {
     public interface IRichReportFactory<TReport> where TReport : IRichReport
     {

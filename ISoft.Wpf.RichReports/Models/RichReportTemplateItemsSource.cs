@@ -1,15 +1,4 @@
-﻿using DevExpress.Mvvm.POCO;
-using ISoft.Printing.Shared.Data;
-using ISoft.RichReports.Core.Client;
-using ISoft.RichReports.Core.Templates;
-using ISoft.Utils.Helpers;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading;
-using System.Threading.Tasks;
-
-namespace ISoft.Wpf.RichReports.DataModel
+﻿namespace ISoft.Wpf.RichReports.Models
 {
     /// <summary>
     /// Thread-safe template items collection with async loading support

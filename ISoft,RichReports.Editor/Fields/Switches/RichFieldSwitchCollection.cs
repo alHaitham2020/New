@@ -1,6 +1,5 @@
-﻿using ISoft.RichReports.Editor.Fields.Format;
-using ISoft.Utils.Caching;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Editor.Fields.Formatting;
+using ISoft.RichReports.Editor.Fields.Switches;
 using System;
 using System.Linq;
 using System.Text;

@@ -1,7 +1,4 @@
-﻿using DevExpress.Mvvm.UI;
-using ISoft.RichReportDesigner.UI.Controls;
-
-namespace ISoft.RichReportDesigner.UI.UIServices
+﻿namespace ISoft.Wpf.RichReports.Services.UI
 {
     public class RichReportDesignerControlService : ServiceBaseGeneric<RichReportDesignerControl>, IRichReportDesignerControlService
     {

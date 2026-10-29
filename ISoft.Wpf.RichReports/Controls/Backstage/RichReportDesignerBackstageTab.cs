@@ -1,4 +1,4 @@
-﻿namespace ISoft.Wpf.RichReports.Internal
+﻿namespace ISoft.Wpf.RichReports.Controls.Backstage
 {
     internal enum RichReportDesignerBackstageTab
     {

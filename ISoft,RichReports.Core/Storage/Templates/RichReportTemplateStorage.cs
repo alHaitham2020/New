@@ -1,12 +1,14 @@
-﻿using ISoft.Printing.Shared.Data;
+﻿using ISoft.RichReports.Core.Abstractions.Storage;
+using ISoft.RichReports.Core.Abstractions.Templates;
+using ISoft.RichReports.Core.Models.Templates;
 using ISoft.RichReports.Core.Templates;
-using ISoft.Utils.Data.AsyncData;
-using ISoft.Utils.Helpers;
+using ISoft.RichReports.Core.Templates.ImportExport;
+using ISoft.RichReports.Core.Templates.Services;
 using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Client
+namespace ISoft.RichReports.Core.Storage.Templates
 {
     public class RichReportTemplateStorage : IRichReportTemplateStorage
     {

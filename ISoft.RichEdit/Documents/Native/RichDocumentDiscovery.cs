@@ -1,8 +1,7 @@
-﻿using DevExpress.XtraRichEdit.API.Native;
-using System;
+﻿using System;
 using System.Collections.Generic;
 
-namespace ISoft.RichEdit.Native
+namespace ISoft.RichEdit.Documents.Native
 {
     internal static class RichDocumentDiscovery
     {

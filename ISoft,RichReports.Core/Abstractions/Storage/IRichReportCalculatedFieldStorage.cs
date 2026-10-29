@@ -1,9 +1,9 @@
-﻿using ISoft.RichReports.Core.Data;
+﻿using ISoft.RichReports.Core.Abstractions.Data;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Client
+namespace ISoft.RichReports.Core.Abstractions.Storage
 {
     public interface IRichReportCalculatedFieldStorage
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ISoft.RichReports.Editor.Fields.Switches
+namespace ISoft_RichReports.Editor.Fields.Switches
 {
     /// <summary>
     /// represent info for switch key /value

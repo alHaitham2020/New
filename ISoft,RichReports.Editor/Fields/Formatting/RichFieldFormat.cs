@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace ISoft.RichReports.Editor.Fields.Format
+namespace ISoft.RichReports.Editor.Fields.Formatting
 {
     public readonly struct RichFieldFormat : IEquatable<RichFieldFormat>
     {

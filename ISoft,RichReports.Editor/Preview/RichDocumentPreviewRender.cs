@@ -1,10 +1,4 @@
-﻿using DevExpress.Office.Services;
-using DevExpress.XtraRichEdit;
-using ISoft.RichEdit.Native;
-using ISoft.RichReports.Core.Model;
-using ISoft.RichReports.Core.Templates;
-using ISoft.RichReports.Editor.Services;
-using ISoft.Utils.Helpers;
+﻿using ISoft.RichReports.Editor.Services.Abstractions;
 using System;
 using System.IO;
 using System.Threading.Tasks;

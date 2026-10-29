@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.UI.DataModel
+namespace ISoft_RichReports.Models
 {
     public interface IRichReportCalculatedFieldModelOwner
     {

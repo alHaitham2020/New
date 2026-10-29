@@ -1,11 +1,4 @@
-﻿using DevExpress.Utils.Commands;
-using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.Fields;
-using DevExpress.XtraRichEdit.Model;
-using ISoft.RichReportDesigner.Core.RichEdit.Fields;
-using ISoft.Utils.Helpers;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.Commands
+﻿namespace ISoft.Wpf.RichReports.Editor.Commands
 {
     public abstract class ChangeFieldSwitchValueImageDimensionCommandBase<T> : ChangeFieldSwitchValueCommand<T>
     {

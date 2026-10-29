@@ -1,15 +1,9 @@
-﻿using DevExpress.XtraPrinting;
-using ISoft.Printing.Shared.Data;
-using ISoft.RichReports.Core.Client;
-using ISoft.RichReports.Core.Model;
-using ISoft.RichReports.Core.Templates;
-using ISoft.RichReports.Data.DataSources;
-using ISoft.RichReports.Data.Fields;
-using ISoft.RichReports.Editor.RichProperties;
+﻿using ISoft.RichReports.Data.Fields;
+using ISoft.RichReports.Data.Sources;
 using System;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.UI
+namespace ISoft.RichReports.Models.Reports
 {
     public interface IRichReport : IRichServiceContainer
     {

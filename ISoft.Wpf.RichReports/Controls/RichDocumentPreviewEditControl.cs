@@ -1,6 +1,4 @@
-﻿using DevExpress.Xpf.RichEdit;
-
-namespace ISoft.RichReportDesigner.UI.Controls
+﻿namespace ISoft.Wpf.RichReports.Controls
 {
     public class RichDocumentPreviewEditControl : RichEditControl
     {

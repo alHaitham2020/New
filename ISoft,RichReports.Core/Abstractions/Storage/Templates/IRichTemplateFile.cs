@@ -1,7 +1,8 @@
-﻿using System.Threading;
+﻿using ISoft.RichReports.Core.Abstractions.Templates;
+using System.Threading;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Templates.FileSystem
+namespace ISoft.RichReports.Core.Abstractions.Storage.Templates
 {
     /// <summary>
     /// Represents a template file in the file system

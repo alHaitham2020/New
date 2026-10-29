@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace ISoft.RichReports.Editor.Services
+namespace ISoft.RichReports.Editor.Services.Abstractions
 {
     public interface IRichEditFieldsManagerService
     {

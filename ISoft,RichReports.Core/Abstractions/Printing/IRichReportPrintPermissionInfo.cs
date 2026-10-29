@@ -1,4 +1,4 @@
-﻿namespace ISoft.RichReports.Core.Client
+﻿namespace ISoft.RichReports.Core.Abstractions.Printing
 {
     public interface IRichReportPrintPermissionInfo
     {

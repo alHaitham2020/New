@@ -1,4 +1,4 @@
-﻿namespace ISoft.RichReports.Editor.Fields.Argumentes
+﻿namespace ISoft.RichReports.Editor.Fields.Arguments
 {
     /// <summary>
     /// Represents an argument's position in the original string.

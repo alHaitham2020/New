@@ -1,7 +1,4 @@
-﻿using ISoft.Utils.Common;
-using ISoft.Utils.Extentions;
-
-namespace ISoft.RichReports.Editor.Fields.Argumentes
+﻿namespace ISoft.RichReports.Editor.Fields.Arguments
 {
     public sealed class RichFieldArgumentStringBuilder : IRichFieldArgumentBuilder
     {

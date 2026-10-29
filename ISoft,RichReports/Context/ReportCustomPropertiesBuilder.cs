@@ -1,7 +1,7 @@
-﻿using ISoft.RichReports.Editor.RichProperties;
-using ISoft.RichReports.Localization;
+﻿using ISoft.RichReports.Localization;
+using ISoft.RichReports.Models.Reports;
 
-namespace ISoft.RichReports.UI
+namespace ISoft.RichReports.Context
 {
     /// <summary>
     /// Extension methods for adding report properties to custom document properties

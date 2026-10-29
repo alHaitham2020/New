@@ -1,7 +1,6 @@
-﻿using DevExpress.Office.Services;
-using ISoft.Office.Images;
+﻿using ISoft.RichReports.Editor.Services.Abstractions;
 
-namespace ISoft.RichReports.Editor.Services.Implementation
+namespace ISoft.RichReports.Editor.Services.Implementations
 {
     public class RichEditUriStreamProviderManagerService : IRichEditUriStreamRegistrationService
     {

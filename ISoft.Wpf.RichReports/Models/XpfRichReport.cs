@@ -1,18 +1,6 @@
-﻿using DevExpress.Mvvm.POCO;
-using ISoft.Mvvm.Extentions;
-using ISoft.Mvvm.Helpers;
-using ISoft.RichReports.Core.Client;
-using ISoft.RichReports.Core.Model;
-using ISoft.RichReports.Core.Templates;
-using ISoft.RichReports.Editor.Services;
-using ISoft.RichReports.UI;
-using ISoft.Utils.Data;
-using ISoft.Utils.Helpers;
-using ISoft.Wpf.RichReports.Services;
-using System;
-using System.Threading.Tasks;
+﻿using ISoft.Wpf.RichReports.Services;
 
-namespace ISoft.Wpf.RichReports.DataModel
+namespace ISoft.Wpf.RichReports.Models
 {
     /// <summary>
     /// a rich report for desktop wpf platform

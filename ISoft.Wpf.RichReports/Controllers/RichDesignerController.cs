@@ -1,7 +1,4 @@
-﻿using ISoft.RichReportDesigner.UI.Controls;
-using ISoft.Utils.Helpers;
-
-namespace ISoft.RichReportDesigner.UI.Controllers
+﻿namespace ISoft.Wpf.RichReports.Controllers
 {
     internal sealed class RichDesignerController
     {

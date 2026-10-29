@@ -1,6 +1,4 @@
-﻿using ISoft.RichReports.Editor.Fields.Format;
-
-namespace ISoft.RichReports.Data.DataAnnotations
+﻿namespace ISoft.RichReports.Data.Annotations
 {
     public class RichDateTimeDataFieldFormatAttribute : RichDataFieldFormatAttributeBase
     {

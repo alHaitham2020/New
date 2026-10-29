@@ -1,15 +1,6 @@
-﻿using DevExpress.XtraRichEdit;
-using ISoft.RichReportDesigner.Core.RichEdit;
-using ISoft.RichReportDesigner.Core.RichEdit.Services;
-using ISoft.RichReportDesigner.Core.Shared;
-using ISoft.RichReportDesigner.Core.Templates;
-using ISoft.RichReportDesigner.UI.Controls;
-using ISoft.Utils.Data.AsyncData;
-using ISoft.Utils.Helpers;
-using System;
-using System.Threading.Tasks;
+﻿using ISoft.Wpf.RichReports.Controls;
 
-namespace ISoft.RichReportDesigner.UI.Controllers
+namespace ISoft.Wpf.RichReports.Controllers
 {
     // manage a report templates in the designer
     internal class RichDesignerTemplateController

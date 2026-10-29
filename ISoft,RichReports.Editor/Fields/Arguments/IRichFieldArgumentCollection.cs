@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Text;
 
-namespace ISoft.RichReports.Editor.Fields.Argumentes
+namespace ISoft.RichReports.Editor.Fields.Arguments
 {
     public interface IRichFieldArgumentCollection : IEnumerable<IRichFieldArgument>
     {

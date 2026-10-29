@@ -1,7 +1,8 @@
-﻿using ISoft.RichReports.Core.Templates.FileSystem;
+﻿using ISoft.RichReports.Core.Abstractions.Storage.Templates;
+using ISoft.RichReports.Core.Abstractions.Templates;
 using System.Threading.Tasks;
 
-namespace ISoft.RichReports.Core.Client
+namespace ISoft.RichReports.Core.Templates.Factories
 {
     /// <summary>
     /// Factory for creating template providers

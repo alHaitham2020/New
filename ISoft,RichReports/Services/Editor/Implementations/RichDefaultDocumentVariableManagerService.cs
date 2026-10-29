@@ -1,8 +1,6 @@
-﻿using DevExpress.XtraRichEdit;
-using ISoft.RichReports.Editor.RichProperties;
-using ISoft.RichReports.UI;
+﻿using ISoft.RichReports.Models.Reports;
 
-namespace ISoft.RichReports.Editor.Services.Implementation
+namespace ISoft.RichReports.Services.Editor.Implementations
 {
     public class RichDefaultDocumentVariableManagerService : IRichEditDocumentVariableManagerService
     {

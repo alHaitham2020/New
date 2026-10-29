@@ -1,6 +1,6 @@
-﻿using ISoft.Printing.Shared.Data;
+﻿using ISoft.RichReports.Core.Enums;
 
-namespace ISoft.RichReports.Core.Client
+namespace ISoft.RichReports.Core.Abstractions.Options
 {
     public interface IRichReportTemplateSourceFilterOptions
     {

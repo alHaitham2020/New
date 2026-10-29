@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ISoft.RichReports.Core.Model
+namespace ISoft.RichReports.Core.Exceptions
 {
     public class RichOperationException : Exception
     {

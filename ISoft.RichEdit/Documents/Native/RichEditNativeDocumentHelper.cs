@@ -1,12 +1,9 @@
-﻿using DevExpress.XtraRichEdit.API.Native;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using ISoft.Utils.Helpers;
-using DevExpress.XtraRichEdit.API.Native.Implementation;
-using DevExpress.XtraRichEdit.API.Layout;
+using ISoft.RichEdit.Documents.Native;
 
-namespace ISoft.RichEdit.Native
+namespace ISoft.RichEdit.Documents.Native
 {
     /// <summary>
     /// Extension helpers for <see cref="Document"/> that centralize safe

@@ -1,8 +1,7 @@
-﻿using ISoft.RichReports.Editor.Fields.Format;
-using ISoft.Utils.DataModel;
+﻿using ISoft.RichReports.Editor.Fields.Formatting;
 using System;
 
-namespace ISoft.RichReports.Editor.RichProperties
+namespace ISoft.RichReports.Editor.Properties.RichProperties
 {
     public abstract class RichPropertyBase : ObjectBase, IRichProperty
     {

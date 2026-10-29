@@ -1,4 +1,6 @@
-﻿namespace ISoft.RichReports.Core.Templates
+﻿using ISoft.RichReports.Core.Abstractions.Templates;
+
+namespace ISoft.RichReports.Core.Models.Templates
 {
     public class RichReportTemplateSaveResult
     {

@@ -1,9 +1,4 @@
-﻿using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.Services;
-using DevExpress.XtraRichEdit.Services.Implementation;
-using ISoft.RichReportDesigner.Core.Printing;
-
-namespace ISoft.RichReportDesigner.UI.RichEdit.Services
+﻿namespace ISoft.Wpf.RichReports.Editor.Services
 {
     public class RichDocumentEditPrintingService : RichEditPrintingService, IRichEditPrintingService
     {

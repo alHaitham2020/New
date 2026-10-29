@@ -1,6 +1,4 @@
-﻿using DevExpress.Office.Services;
-
-namespace ISoft.RichReports.Editor.Services
+﻿namespace ISoft.RichReports.Editor.Services.Abstractions
 {
     public interface IRichEditUriStreamRegistrationService
     {

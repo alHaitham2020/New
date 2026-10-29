@@ -1,7 +1,4 @@
-﻿using DevExpress.Utils.Localization;
-using DevExpress.Utils.Localization.Internal;
-using ISoft.Utils.Localization;
-using System;
+﻿using System;
 
 namespace ISoft.RichReports.Localization
 {

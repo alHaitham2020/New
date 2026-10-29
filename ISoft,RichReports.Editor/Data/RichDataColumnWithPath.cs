@@ -1,6 +1,4 @@
-﻿using DevExpress.Data;
-
-namespace ISoft.RichReports.Editor.Data
+﻿namespace ISoft.RichReports.Editor.Data
 {
     /// <summary>
     /// A column paired with its dotted path from the root.

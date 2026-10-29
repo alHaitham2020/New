@@ -1,13 +1,4 @@
-﻿
-using DevExpress.XtraRichEdit;
-using DevExpress.XtraRichEdit.API.Native;
-using ISoft.RichReports.Editor.Services;
-using ISoft.Utils.Helpers;
-using System;
-using System.Collections.Generic;
-using System.Drawing;
-
-namespace ISoft.RichReports.Editor.Highlighting
+﻿namespace ISoft.RichReports.Editor.Fields.Highlighting
 {
     //public class RichEditFieldHighlightInfoProvider : IRichEditFieldHighlightInfoProvider
     //{

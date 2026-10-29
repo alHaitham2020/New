@@ -1,8 +1,8 @@
-﻿using ISoft.RichReports.Editor.Fields.Core;
+﻿using ISoft_RichReports.Editor.Fields.Core;
 using System;
 using System.Collections.Generic;
 
-namespace ISoft.RichReports.Editor.Fields.Options
+namespace ISoft_RichReports.Editor.Fields.Options
 {
     public interface IRichEditFieldOptionsFactory
     {
