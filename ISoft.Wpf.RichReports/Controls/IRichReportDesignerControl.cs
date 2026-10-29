@@ -1,4 +1,11 @@
-﻿using System.Windows;
+﻿using ISoft.Mvvm.Native;
+using ISoft.RichReportDesigner.Core.Designer;
+using ISoft.RichReportDesigner.Core.Templates;
+using ISoft.Wpf.RichReports.DataModel;
+using ISoft.Wpf.RichReports.Internal;
+using System;
+using System.Threading.Tasks;
+using System.Windows;
 using System.Windows.Threading;
 
 namespace ISoft.Wpf.RichReports.Controls
