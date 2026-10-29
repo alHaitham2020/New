@@ -13,7 +13,7 @@
                     xmlns:dxreui="http://schemas.devexpress.com/winfx/2008/xaml/richedit"
                     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:local="clr-namespace:ISoft.RichReportDesigner.UI.Controls">
+                    xmlns:local="clr-namespace:ISoft.Wpf.RichReports.Controls">
 
     <Style x:Key="{dxret:BarItemStyleKey ResourceKey=RibbonItem_File_Common_New}" TargetType="{x:Type dxb:BarButtonItem}">
         <Setter Property="Content" Value="{dxre:RichEditLocalizedString MenuCmd_NewEmptyDocument}"/>
