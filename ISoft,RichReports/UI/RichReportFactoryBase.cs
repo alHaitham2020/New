@@ -1,0 +1,24 @@
+﻿using System;
+
+namespace ISoft.RichReports.UI
+{
+    public interface IRichReportFactory<TReport> where TReport : IRichReport
+    {
+        TReport CreateReport(IRichReportContext context);
+    }
+
+    public abstract class RichReportFactoryBase<TReport> : IRichReportFactory<TReport> where TReport : IRichReport
+    {
+        private readonly Func<IRichReportContext,TReport> _factory;
+
+        protected RichReportFactoryBase(Func<IRichReportContext,TReport> factory)
+        {
+            _factory = factory;
+        }
+
+        TReport IRichReportFactory<TReport>.CreateReport(IRichReportContext context)
+        {
+            return _factory(context);
+        }
+    }
+}

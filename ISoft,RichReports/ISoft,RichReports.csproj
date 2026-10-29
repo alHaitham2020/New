@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>ISoft_RichReports</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net48\.NETFramework,Version=v4.8.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net48\ISoft.RichReports.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\ISoft.RichReports.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0\ISoft,RichReports.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0\ISoft,RichReports.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\ISoft,RichReports.csproj.nuget.dgspec.json" />
+    <Content Include="obj\ISoft.RichReports.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="obj\Debug\net48\ISoft.RichReports.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net48\ISoft.RichReports.assets.cache" />
+    <None Include="obj\Debug\net48\ISoft.RichReports.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net48\ISoft.RichReports.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0-windows\ISoft.RichReports.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0-windows\ISoft.RichReports.assets.cache" />
+    <None Include="obj\Debug\net8.0-windows\ISoft.RichReports.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0\ISoft,RichReports.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0\ISoft,RichReports.assets.cache" />
+    <None Include="obj\Debug\net8.0\ISoft,RichReports.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\ISoft,RichReports.csproj.nuget.g.props" />
+    <None Include="obj\ISoft,RichReports.csproj.nuget.g.targets" />
+    <None Include="obj\ISoft.RichReports.csproj.nuget.g.props" />
+    <None Include="obj\ISoft.RichReports.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="obj\Debug\net8.0-windows\refint\" />
+    <Folder Include="obj\Debug\net8.0-windows\ref\" />
+    <Folder Include="obj\Debug\net8.0\refint\" />
+    <Folder Include="obj\Debug\net8.0\ref\" />
+  </ItemGroup>
+
+</Project>

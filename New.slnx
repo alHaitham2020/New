@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ISoft,RichReports.Core/ISoft,RichReports.Core.csproj" />
+  <Project Path="ISoft,RichReports.Editor/ISoft,RichReports.Editor.csproj" />
+  <Project Path="ISoft,RichReports/ISoft,RichReports.csproj" />
+  <Project Path="ISoft.RichEdit/ISoft.RichEdit.csproj" />
+  <Project Path="ISoft.Wpf.RichReports/ISoft.Wpf.RichReports.csproj" />
+</Solution>
