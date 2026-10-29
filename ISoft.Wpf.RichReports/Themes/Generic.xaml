@@ -3,8 +3,8 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
     <ResourceDictionary.MergedDictionaries>
-        <ResourceDictionary Source="pack://application:,,,/ISoft.RichReportDesigner.UI;component/Themes/Controls/RichReportDesignerFieldsPanel.xaml"/>
-        <ResourceDictionary Source="pack://application:,,,/ISoft.RichReportDesigner.UI;component/Themes/Controls/RichReportDesignerControl.xaml"/>
-        <ResourceDictionary Source="pack://application:,,,/ISoft.RichReportDesigner.UI;component/Themes/Controls/RichReportViewerControl.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/ISoft.Wpf.RichReports;component/Themes/Controls/RichReportDesignerFieldsPanel.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/ISoft.Wpf.RichReports;component/Themes/Controls/RichReportDesignerControl.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/ISoft.Wpf.RichReports;component/Themes/Controls/RichReportViewerControl.xaml"/>
     </ResourceDictionary.MergedDictionaries>
 </ResourceDictionary>
